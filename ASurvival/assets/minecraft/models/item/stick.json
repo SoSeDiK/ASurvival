@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/stick"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/stick/oak_stick" },
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/stick/spruce_stick" },
+		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/stick/birch_stick" },
+		{ "predicate": { "custom_model_data": 10000003 }, "model": "asurvival:item/stick/jungle_stick" },
+		{ "predicate": { "custom_model_data": 10000004 }, "model": "asurvival:item/stick/acacia_stick" },
+		{ "predicate": { "custom_model_data": 10000005 }, "model": "asurvival:item/stick/dark_oak_stick" }
+	]
+}

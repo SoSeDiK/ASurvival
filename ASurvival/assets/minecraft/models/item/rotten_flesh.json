@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/rotten_flesh"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/food/zombacon" },
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/food/brain" }
+	]
+}

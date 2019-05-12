@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "asurvival:item/glass_shard/pink_glass_shard"
+    }
+}

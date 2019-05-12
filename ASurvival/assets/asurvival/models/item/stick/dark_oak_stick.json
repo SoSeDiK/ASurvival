@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "asurvival:item/stick/dark_oak_stick"
+    }
+}
