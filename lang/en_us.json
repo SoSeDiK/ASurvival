@@ -1,0 +1,91 @@
+{
+"advancement.root.title": "Let's get into it",
+"advancement.root.description": "The brave new world",
+
+"advancement.final.title": "That's Only The Beginning",
+"advancement.final.description": "There's nothing impossible!",
+
+"advancement.get_a_branch.title": "Going further",
+"advancement.get_a_branch.description": "Get some branches from the leaves or a dead bush",
+
+"advancement.get_a_fiber.title": "Feeling green",
+"advancement.get_a_fiber.description": "Get a fiber from grass",
+
+"advancement.make_a_twine.title": "Намотай себе на ус",
+"advancement.make_a_twine.description": "Create a twine using three fibers\n§r\n§r",
+
+"advancement.make_flint_shears.title": "Sharpening",
+"advancement.make_flint_shears.description": "Create flint shears using a twine and three flaked flints\n§r\n§r",
+
+"advancement.make_sticks.title": "Палки в колёсах",
+"advancement.make_sticks.description": "Создайте первые палки, обрезав ветки ножницами\n§r",
+
+"advancement.make_a_gravel.title": "First serious step",
+"advancement.make_a_gravel.description": "Find or form some gravel by jumping on a grass block",
+
+"advancement.get_a_flint.title": "Flintstone age",
+"advancement.get_a_flint.description": "Get a flint from a gravel",
+
+"advancement.get_a_flaked_flint.title": "Что-то откололось",
+"advancement.get_a_flaked_flint.description": "Создайте осколок кремня, постучав им по камню",
+
+"advancement.make_a_flint_axe.title": "Нужно рубить деревья",
+"advancement.make_a_flint_axe.description": "Создайте кремнёвый топор из палки, бечёвки и двух кремнёвых осколков\n§r\n§r",
+
+"advancement.make_a_grass_mesh.title": "Маленькие дырочки",
+"advancement.make_a_grass_mesh.description": "Создайте сетку из трявяного волокна, используя две палки и бечёвки\n§r\n§r",
+
+"advancement.make_a_flint.title": "Treasure hunt",
+"advancement.make_a_flint.description": "Получите что-нибудь, просыпав гравий через сетку\n§r",
+
+"advancement.make_a_flint_shovel.title": "Mining gravel",
+"advancement.make_a_flint_shovel.description": "Создайте кремнёвую лопату из палки, кремня и бечёвки\n§r\n§r",
+
+"advancement.get_a_log.title": "Нарубить дров",
+"advancement.get_a_log.description": "Бейте дерево топором, пока оно не сломается",
+
+"advancement.make_a_chopping_block.title": "Рубка ради рубки",
+"advancement.make_a_chopping_block.description": "Совместите бревно с топором, чтобы получить разделочный пенёк\n§r",
+
+"advancement.make_planks.title": "Деревянный как кирпич",
+"advancement.make_planks.description": "Разрубите дерево топором на разделочном пеньке, чтобы получить доски",
+
+"advancement.make_more_sticks.title": "Древесные изделия",
+"advancement.make_more_sticks.description": "Заполучите идеальные палки, разрубив доски на разделочном пеньке",
+
+"advancement.make_a_flint_pickaxe.title": "Начинаем майнить",
+"advancement.make_a_flint_pickaxe.description": "Создайте кремнёвую кирку из палки, доски и двух кремня\n§r\n§r",
+
+"advancement.get_a_cobblestone.title": "Камушки",
+"advancement.get_a_cobblestone.description": "Добудьте немного булыжника при помощи кирки",
+
+"advancement.make_a_hammer.title": "Начинаем строить дом",
+"advancement.make_a_hammer.description": "Создайте молоток из палки и двух булыжника\n§r\n§r",
+
+"advancement.make_a_crafting_table.title": "Рабочий стол",
+"advancement.make_a_crafting_table.description": "Создайте верстак при помощи молотка, бревна, кремня и сетки из травяного волокна\n§r\n§r",
+
+"advancement.get_a_clay_ball.title": "Глину не мять — горшков не видать",
+"advancement.get_a_clay_ball.description": "Добудьте глину при помощи лопаты",
+
+"advancement.make_a_fire.title": "Огненное чудо",
+"advancement.make_a_fire.description": "Зажгите огонь, поочерёдно кликая §r §aнеобробленными палками в обеих руках",
+
+"advancement.get_a_brick.title": "Кирпичный завод",
+"advancement.get_a_brick.description": "Используя ранее разведённый костёр, примените (ЛКМ) на нём глину, чтобы получить кирпичи",
+
+"advancement.get_a_charcoal.title": "Топливо жизни",
+"advancement.get_a_charcoal.description": "Используя ранее разведённый костёр, примените (ЛКМ) на нём древесину, чтобы получить древесный уголь",
+
+"advancement.make_a_firestriker.title": "Зажжём!",
+"advancement.make_a_firestriker.description": "Создайте огниво из древесного угля, кремня и двух веток\n§r\n§r",
+
+"advancement.make_a_furnace.title": "Hot stuff",
+"advancement.make_a_furnace.description": "Create a furnace on crafting table using eight bricks and a firestriker\n§r\n§r\n§r",
+
+"advancement.make_a_stone.title": "Укрепление",
+"advancement.make_a_stone.description": "Выплавите камень в печи из булыжника",
+
+"advancement.make_a_stone_tool.title": "Stone age",
+"advancement.make_a_stone_tool.description": "Create stone instrument on crafting table using sticks, stones and string or twine"
+}
