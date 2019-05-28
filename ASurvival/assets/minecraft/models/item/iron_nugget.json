@@ -44,6 +44,10 @@
 		{ "predicate": { "custom_model_data": 10000037 }, "model": "asurvival:item/gloves/gilded_iron_gloves" },
 		{ "predicate": { "custom_model_data": 10000038 }, "model": "asurvival:item/gloves/obsidian_gloves" },
 		{ "predicate": { "custom_model_data": 10000039 }, "model": "asurvival:item/tool/scroll_of_dimensional_teleposition" },
-		{ "predicate": { "custom_model_data": 10000040 }, "model": "asurvival:item/quiver" }
+		{ "predicate": { "custom_model_data": 10000040 }, "model": "asurvival:item/quiver" },
+		{ "predicate": { "custom_model_data": 10000041 }, "model": "asurvival:item/mob_drop/bat/bat_wool" },
+		{ "predicate": { "custom_model_data": 10000042 }, "model": "asurvival:item/infernal_bone_meal" },
+		{ "predicate": { "custom_model_data": 10000043 }, "model": "asurvival:item/tool/grandmas_walking_stick" },
+		{ "predicate": { "custom_model_data": 10000044 }, "model": "asurvival:item/tool/grandpas_walking_stick" }
 	]
 }

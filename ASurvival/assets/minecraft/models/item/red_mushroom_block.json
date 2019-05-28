@@ -1,5 +1,5 @@
 {
-    "parent": "block/hay_block",
+	"parent": "block/red_mushroom_block_inventory",
 	"overrides": [
 		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:block/reed_block" }
 	]

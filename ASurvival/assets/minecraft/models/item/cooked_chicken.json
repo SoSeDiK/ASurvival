@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cooked_chicken"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/mob_drop/bat/cooked_bat_meat" },
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/mob_drop/bat/cooked_bat_wing" }
+	]
+}

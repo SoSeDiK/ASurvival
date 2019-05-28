@@ -1,0 +1,6 @@
+{
+	"parent": "block/brown_mushroom_block_inventory",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:block/enhanced_crafting_table" }
+	]
+}

@@ -41,6 +41,7 @@
 		{ "predicate": { "custom_model_data": 10000034 }, "model": "asurvival:gui/totem_locked" },
 		{ "predicate": { "custom_model_data": 10000035 }, "model": "asurvival:gui/small_backpack" },
 		{ "predicate": { "custom_model_data": 10000036 }, "model": "asurvival:gui/medium_backpack" },
-		{ "predicate": { "custom_model_data": 10000037 }, "model": "asurvival:gui/large_backpack" }
+		{ "predicate": { "custom_model_data": 10000037 }, "model": "asurvival:gui/large_backpack" },
+		{ "predicate": { "custom_model_data": 10000038 }, "model": "item/air" }
 	]
 }
