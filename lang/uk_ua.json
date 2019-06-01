@@ -3,7 +3,7 @@
 "advancement.root.description": "Кардинально новий світ!",
 
 "advancement.final.title": "Початок непростого шляху",
-"advancement.final.description": "Немає нічого деможливого!",
+"advancement.final.description": "Немає нічого неможливого!",
 
 "advancement.get_a_branch.title": "Просуваємось",
 "advancement.get_a_branch.description": "Заполучіть гілки з листви або мертвого куща",
@@ -63,7 +63,7 @@
 "advancement.make_a_hammer.description": "Створіть молоток з палки та двох кругляків\n§r\n§r",
 
 "advancement.make_a_crafting_table.title": "Рабочий стіл",
-"advancement.make_a_crafting_table.description": "Створіть верстат за допомоги молотка, дерев’яної колоди, кремню та сітки з трав’яного волокна\n§r\n§r",
+"advancement.make_a_crafting_table.description": "Створіть верстак за допомоги молотка, дерев’яної колоди, кремню та сітки з трав’яного волокна\n§r\n§r",
 
 "advancement.get_a_clay_ball.title": "В розбитому горщику каші не звариш",
 "advancement.get_a_clay_ball.description": "Заполучіть глину за допомогою лопати",
@@ -81,7 +81,7 @@
 "advancement.make_a_firestriker.description": "Створіть кресало з деревного вугілля, кремню та двох гілок\n§r\n§r",
 
 "advancement.make_a_furnace.title": "Гаряча штучка",
-"advancement.make_a_furnace.description": "Створіть пічку на верстаті з восьми цеглин і кресала\n§r\n§r\n§r",
+"advancement.make_a_furnace.description": "Створіть пічку на верстаку з восьми цеглин і кресала\n§r\n§r\n§r",
 
 "advancement.make_a_stone.title": "Зміцнення",
 "advancement.make_a_stone.description": "Виплавте камінь в печі з кругляку",
