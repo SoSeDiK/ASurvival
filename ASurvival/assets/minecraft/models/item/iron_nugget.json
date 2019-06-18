@@ -48,6 +48,8 @@
 		{ "predicate": { "custom_model_data": 10000041 }, "model": "asurvival:item/mob_drop/bat/bat_wool" },
 		{ "predicate": { "custom_model_data": 10000042 }, "model": "asurvival:item/infernal_bone_meal" },
 		{ "predicate": { "custom_model_data": 10000043 }, "model": "asurvival:item/tool/grandmas_walking_stick" },
-		{ "predicate": { "custom_model_data": 10000044 }, "model": "asurvival:item/tool/grandpas_walking_stick" }
+		{ "predicate": { "custom_model_data": 10000044 }, "model": "asurvival:item/tool/grandpas_walking_stick" },
+		{ "predicate": { "custom_model_data": 10000045 }, "model": "asurvival:item/charcoal_filter" },
+		{ "predicate": { "custom_model_data": 10000046 }, "model": "asurvival:item/ice_cube" }
 	]
 }

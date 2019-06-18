@@ -4,6 +4,8 @@
         "layer0": "item/golden_hoe"
     },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/tool/grass_mesh" }
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/tool/grass_mesh" },
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/empty_canteen" },
+		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/canteen" }
 	]
 }

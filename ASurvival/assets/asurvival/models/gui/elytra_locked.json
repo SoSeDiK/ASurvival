@@ -4,6 +4,6 @@
         "layer0": "asurvival:gui/elytra_locked"
     },
 	"display": {
-		"gui": { "rotation": [ 0, 0, 0 ], "translation": [ 0, 0, 0 ], "scale": [ 1.1, 1.1, 1 ] }
+		"gui": {"rotation": [ 0, 0, 0 ], "translation": [ 0, 0, 0 ], "scale": [ 1.2, 1.2, 1.2 ]}
 	}
 }

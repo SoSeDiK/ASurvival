@@ -4,6 +4,7 @@
         "layer0": "block/red_stained_glass"
     },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:gui/menu/enhanced_crafting_table" }
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:gui/menu/enhanced_crafting_table" },
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:gui/menu/bleeding" }
 	]
 }
