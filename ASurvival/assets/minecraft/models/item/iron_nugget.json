@@ -50,6 +50,8 @@
 		{ "predicate": { "custom_model_data": 10000043 }, "model": "asurvival:item/tool/grandmas_walking_stick" },
 		{ "predicate": { "custom_model_data": 10000044 }, "model": "asurvival:item/tool/grandpas_walking_stick" },
 		{ "predicate": { "custom_model_data": 10000045 }, "model": "asurvival:item/charcoal_filter" },
-		{ "predicate": { "custom_model_data": 10000046 }, "model": "asurvival:item/ice_cube" }
+		{ "predicate": { "custom_model_data": 10000046 }, "model": "asurvival:item/ice_cube" },
+		{ "predicate": { "custom_model_data": 10000047 }, "model": "asurvival:item/bee" },
+		{ "predicate": { "custom_model_data": 10000048 }, "model": "asurvival:item/thermometer" }
 	]
 }

@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/birch_planks"
+    },
+	"display": {
+		"head": {
+			"translation": [0, -5, 0]
+		}
+	}
+}

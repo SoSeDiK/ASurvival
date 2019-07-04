@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/stripped_spruce_log_top",
+        "side": "block/stripped_spruce_log"
+    },
+	"display": {
+		"head": {
+			"translation": [0, -5, 0]
+		}
+	}
+}

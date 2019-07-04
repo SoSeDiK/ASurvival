@@ -3,9 +3,9 @@
 	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst.png", "ascent": -15, "height": 9, "chars": [ "\uE400" ] },
 	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_half.png", "ascent": -15, "height": 9, "chars": [ "\uE401" ] },
 	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_empty.png", "ascent": -15, "height": 9, "chars": [ "\uE402" ] },
-	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst.png", "ascent": 7, "height": 9, "chars": [ "\uE403" ] },
-	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_half.png", "ascent": 7, "height": 9, "chars": [ "\uE404" ] },
-	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_empty.png", "ascent": 7, "height": 9, "chars": [ "\uE405" ] },
+	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst.png", "ascent": -6, "height": 9, "chars": [ "\uE403" ] },
+	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_half.png", "ascent": -6, "height": 9, "chars": [ "\uE404" ] },
+	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_empty.png", "ascent": -6, "height": 9, "chars": [ "\uE405" ] },
 	{ "type": "bitmap", "file": "asurvival:font/temperature/0.png", "ascent": -15, "height": 20, "chars": [ "\uE406" ] },
 	{ "type": "bitmap", "file": "asurvival:font/temperature/1.png", "ascent": -15, "height": 20, "chars": [ "\uE407" ] },
 	{ "type": "bitmap", "file": "asurvival:font/temperature/2.png", "ascent": -15, "height": 20, "chars": [ "\uE408" ] },
@@ -147,9 +147,11 @@
 	{ "type": "bitmap", "file": "asurvival:font/heart/empty_heart.png", "ascent": -27, "height": 7, "chars": [ "\uE490" ] },
 	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_poisoned.png", "ascent": -15, "height": 9, "chars": [ "\uE491" ] },
 	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_half_poisoned.png", "ascent": -15, "height": 9, "chars": [ "\uE492" ] },
-	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_poisoned.png", "ascent": 7, "height": 9, "chars": [ "\uE493" ] },
-	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_half_poisoned.png", "ascent": 7, "height": 9, "chars": [ "\uE494" ] },
-	{ "type": "bitmap", "file": "asurvival:font/filter.png", "ascent": 27, "height": 58, "chars": [ "\uE495" ] },
+	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_poisoned.png", "ascent": -6, "height": 9, "chars": [ "\uE493" ] },
+	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_half_poisoned.png", "ascent": -6, "height": 9, "chars": [ "\uE494" ] },
+	{ "type": "bitmap", "file": "asurvival:font/stamina/stamina.png", "ascent": 4, "height": 9, "chars": [ "\uE495" ] },
+	{ "type": "bitmap", "file": "asurvival:font/stamina/stamina_half.png", "ascent": 4, "height": 9, "chars": [ "\uE496" ] },
+	{ "type": "bitmap", "file": "asurvival:font/stamina/stamina_empty.png", "ascent": 4, "height": 9, "chars": [ "\uE497" ] },
 	{ "type": "ttf", "file": "minecraft:negative_spaces.ttf", "shift": [0.0, 0.0], "size": 10.0, "oversample": 1.0 },
 	{ "type": "bitmap", "file": "item/totem_of_undying.png", "ascent": 7, "chars": [ "\uE500" ] },
 	{ "type": "bitmap", "file": "item/oak_boat.png", "ascent": 7, "chars": [ "\uE501" ] },
@@ -181,6 +183,7 @@
 	{ "type": "bitmap", "file": "item/clay_ball.png", "ascent": 7, "chars": [ "\uE51B" ] },
 	{ "type": "bitmap", "file": "item/wooden_hoe.png", "ascent": 7, "chars": [ "\uE51C" ] },
 	{ "type": "bitmap", "file": "item/charcoal.png", "ascent": 7, "chars": [ "\uE51D" ] },
+	{ "type": "bitmap", "file": "item/crossbow_standby.png", "ascent": 7, "chars": [ "\uE51E" ] },
 	{ "type": "bitmap", "file": "asurvival:item/fiber.png", "ascent": 7, "chars": [ "\uE100" ] },
 	{ "type": "bitmap", "file": "asurvival:item/twine.png", "ascent": 7, "chars": [ "\uE101" ] },
 	{ "type": "bitmap", "file": "asurvival:item/flaked_flint.png", "ascent": 7, "chars": [ "\uE102" ] },
@@ -247,6 +250,6 @@
 	{ "type": "bitmap", "file": "asurvival:item/mob_drop/bat/bat_wool.png", "ascent": 7, "chars": [ "\uE13F" ] },
 	{ "type": "bitmap", "file": "asurvival:item/mob_drop/villager/human_meat.png", "ascent": 7, "chars": [ "\uE140" ] },
 	{ "type": "bitmap", "file": "asurvival:item/mob_drop/villager/cooked_human_meat.png", "ascent": 7, "chars": [ "\uE141" ] },
-	{ "type": "bitmap", "file": "asurvival:item/mob_drop/blaze/ash.png", "ascent": 7, "chars": [ "\uE142" ] }
+	{ "type": "bitmap", "file": "asurvival:item/thermometer.png", "ascent": 7, "chars": [ "\uE142" ] }
   ]
 }

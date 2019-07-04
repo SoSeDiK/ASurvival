@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/oak_log",
+        "side": "block/oak_log"
+    },
+	"display": {
+		"head": {
+			"translation": [0, -5, 0]
+		}
+	}
+}

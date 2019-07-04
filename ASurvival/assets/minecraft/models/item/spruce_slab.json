@@ -1,0 +1,11 @@
+{
+    "parent": "block/spruce_slab",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:block/spruce_chopping_block" }
+	],
+	"display": {
+		"head": {
+			"translation": [0, -5, 0]
+		}
+	}
+}
