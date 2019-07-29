@@ -5,6 +5,9 @@
     },
 	"overrides": [
 		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/food/zombacon" },
-		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/food/brain" }
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/food/brain" },
+		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/food/ice_flesh" },
+		{ "predicate": { "custom_model_data": 10000003 }, "model": "asurvival:item/food/mud_flesh" },
+		{ "predicate": { "custom_model_data": 10000004 }, "model": "asurvival:item/food/jungle_flesh" }
 	]
 }

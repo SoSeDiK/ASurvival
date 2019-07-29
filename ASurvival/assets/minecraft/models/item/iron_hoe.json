@@ -23,6 +23,7 @@
 		{ "predicate": { "custom_model_data": 10000016 }, "model": "asurvival:mob/lost_damaged" },
 		{ "predicate": { "custom_model_data": 10000017 }, "model": "asurvival:mob/brazen_still" },
 		{ "predicate": { "custom_model_data": 10000018 }, "model": "asurvival:mob/brazen_moving" },
-		{ "predicate": { "custom_model_data": 10000019 }, "model": "asurvival:mob/brazen_damaged" }
+		{ "predicate": { "custom_model_data": 10000019 }, "model": "asurvival:mob/brazen_damaged" },
+		{ "predicate": { "custom_model_data": 10000020 }, "model": "asurvival:mob/king_slime/ruby_crown" }
 	]
 }

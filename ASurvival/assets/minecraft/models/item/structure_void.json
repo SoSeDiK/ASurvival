@@ -4,6 +4,22 @@
         "layer0": "item/structure_void"
     },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "item/air" }
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "item/air" },
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:mob/infested_zombie/head" },
+		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:mob/infested_zombie/head_hurt" },
+		{ "predicate": { "custom_model_data": 10000003 }, "model": "asurvival:mob/infested_zombie/body" },
+		{ "predicate": { "custom_model_data": 10000004 }, "model": "asurvival:mob/infested_zombie/body_hurt" },
+		{ "predicate": { "custom_model_data": 10000005 }, "model": "asurvival:mob/infested_zombie/left_hand" },
+		{ "predicate": { "custom_model_data": 10000006 }, "model": "asurvival:mob/infested_zombie/left_hand_hurt" },
+		{ "predicate": { "custom_model_data": 10000007 }, "model": "asurvival:mob/infested_zombie/right_hand" },
+		{ "predicate": { "custom_model_data": 10000008 }, "model": "asurvival:mob/infested_zombie/right_hand_hurt" },
+		{ "predicate": { "custom_model_data": 10000009 }, "model": "asurvival:mob/infested_zombie/moving" },
+		{ "predicate": { "custom_model_data": 10000010 }, "model": "asurvival:mob/infected_skeleton/head" },
+		{ "predicate": { "custom_model_data": 10000011 }, "model": "asurvival:mob/infected_skeleton/head_hurt" },
+		{ "predicate": { "custom_model_data": 10000012 }, "model": "asurvival:mob/infected_skeleton/body" },
+		{ "predicate": { "custom_model_data": 10000013 }, "model": "asurvival:mob/infected_skeleton/body_hurt" },
+		{ "predicate": { "custom_model_data": 10000014 }, "model": "asurvival:mob/infected_skeleton/right_hand" },
+		{ "predicate": { "custom_model_data": 10000015 }, "model": "asurvival:mob/infected_skeleton/right_hand_hurt" },
+		{ "predicate": { "custom_model_data": 10000016 }, "model": "asurvival:mob/infected_skeleton/moving" }
 	]
 }

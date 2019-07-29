@@ -1,0 +1,6 @@
+{
+	"parent": "asurvival:mob/infected_skeleton/moving",
+	"textures": {
+		"0": "asurvival:mobs/animations/infected_skeleton_hurt"
+	}
+}

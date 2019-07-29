@@ -1,0 +1,7 @@
+{
+	"parent": "asurvival:mob/infected_skeleton/jungle_bow",
+	"textures": {
+		"0": "asurvival:mobs/infected_skeleton_hurt",
+		"1": "asurvival:mobs/jungle_bow"
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "asurvival:item/tool/water_gun",
+    "textures": {
+        "layer0": "asurvival:item/tool/slime_gun"
+    }
+}

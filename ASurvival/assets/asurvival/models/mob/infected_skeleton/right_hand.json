@@ -1,0 +1,38 @@
+{
+	"textures": {
+		"0": "asurvival:mobs/infected_skeleton",
+		"1": "asurvival:mobs/overgrowth"
+	},
+	"elements": [
+		{
+			"from": [12, 9, 7],
+			"to": [14, 21, 9],
+			"faces": {
+				"north": {"uv": [4.5, 9, 5.5, 15], "texture": "#0"},
+				"east": {"uv": [5.5, 9, 6.5, 15], "texture": "#0"},
+				"south": {"uv": [0, 9, 1, 15], "texture": "#0"},
+				"west": {"uv": [0, 9, 1, 15], "texture": "#0"},
+				"up": {"uv": [1, 8, 2, 9], "texture": "#0"},
+				"down": {"uv": [1, 8, 2, 9], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11.9, 9, 6.9],
+			"to": [14.1, 21.1, 9.1],
+			"faces": {
+				"north": {"uv": [10, 8.5, 10.5, 11.5], "texture": "#1"},
+				"east": {"uv": [9.25, 8.5, 9.75, 11.5], "texture": "#1"},
+				"south": {"uv": [9.75, 8.5, 10.25, 11.5], "texture": "#1"},
+				"west": {"uv": [10.75, 8.5, 11.25, 11.5], "texture": "#1"},
+				"up": {"uv": [9.75, 8.5, 10.25, 9], "texture": "#1"},
+				"down": {"uv": [12.25, 8.5, 12.75, 9], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-5, -2, -1]
+		}
+	}
+}

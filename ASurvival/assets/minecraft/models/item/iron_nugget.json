@@ -52,6 +52,12 @@
 		{ "predicate": { "custom_model_data": 10000045 }, "model": "asurvival:item/charcoal_filter" },
 		{ "predicate": { "custom_model_data": 10000046 }, "model": "asurvival:item/ice_cube" },
 		{ "predicate": { "custom_model_data": 10000047 }, "model": "asurvival:item/bee" },
-		{ "predicate": { "custom_model_data": 10000048 }, "model": "asurvival:item/thermometer" }
+		{ "predicate": { "custom_model_data": 10000048 }, "model": "asurvival:item/thermometer" },
+		{ "predicate": { "custom_model_data": 10000049 }, "model": "asurvival:item/ruby" },
+		{ "predicate": { "custom_model_data": 10000050 }, "model": "asurvival:item/king_slime" },
+		{ "predicate": { "custom_model_data": 10000051 }, "model": "asurvival:item/mob_drop/king_slime/slime_core" },
+		{ "predicate": { "custom_model_data": 10000052 }, "model": "asurvival:item/pet/slime_pet" },
+		{ "predicate": { "custom_model_data": 10000053 }, "model": "asurvival:item/tool/water_gun" },
+		{ "predicate": { "custom_model_data": 10000054 }, "model": "asurvival:item/tool/slime_gun" }
 	]
 }

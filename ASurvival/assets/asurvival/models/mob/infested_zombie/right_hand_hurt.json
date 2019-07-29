@@ -1,0 +1,7 @@
+{
+	"parent": "asurvival:mob/infested_zombie/right_hand",
+	"textures": {
+		"0": "asurvival:mobs/infested_zombie_hurt",
+		"1": "asurvival:mobs/overgrowth_hurt"
+	}
+}

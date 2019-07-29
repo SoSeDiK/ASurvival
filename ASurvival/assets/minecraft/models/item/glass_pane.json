@@ -15,13 +15,13 @@
 		{ "predicate": { "custom_model_data": 10000008 }, "model": "asurvival:gui/elytra_bless" },
 		{ "predicate": { "custom_model_data": 10000009 }, "model": "asurvival:gui/pet" },
 		{ "predicate": { "custom_model_data": 10000010 }, "model": "asurvival:gui/pet_locked" },
-		{ "predicate": { "custom_model_data": 10000011 }, "model": "asurvival:gui/bestiary" },
+		{ "predicate": { "custom_model_data": 10000011 }, "model": "asurvival:gui/book" },
 		{ "predicate": { "custom_model_data": 10000012 }, "model": "asurvival:gui/helmet" },
 		{ "predicate": { "custom_model_data": 10000013 }, "model": "asurvival:gui/chestplate" },
 		{ "predicate": { "custom_model_data": 10000014 }, "model": "asurvival:gui/leggings" },
 		{ "predicate": { "custom_model_data": 10000015 }, "model": "asurvival:gui/boots" },
 		{ "predicate": { "custom_model_data": 10000016 }, "model": "asurvival:gui/gloves" },
-		{ "predicate": { "custom_model_data": 10000017 }, "model": "asurvival:gui/gloves_locked" },
+		{ "predicate": { "custom_model_data": 10000017 }, "model": "asurvival:gui/potions_bag" },
 		{ "predicate": { "custom_model_data": 10000018 }, "model": "asurvival:gui/quiver" },
 		{ "predicate": { "custom_model_data": 10000019 }, "model": "asurvival:gui/quiver_empty" },
 		{ "predicate": { "custom_model_data": 10000020 }, "model": "asurvival:gui/quiver_locked" },
@@ -42,6 +42,13 @@
 		{ "predicate": { "custom_model_data": 10000035 }, "model": "asurvival:gui/small_backpack" },
 		{ "predicate": { "custom_model_data": 10000036 }, "model": "asurvival:gui/medium_backpack" },
 		{ "predicate": { "custom_model_data": 10000037 }, "model": "asurvival:gui/large_backpack" },
-		{ "predicate": { "custom_model_data": 10000038 }, "model": "item/air" }
+		{ "predicate": { "custom_model_data": 10000038 }, "model": "item/air" },
+		{ "predicate": { "custom_model_data": 10000039 }, "model": "asurvival:gui/potions_bag_locked" },
+		{ "predicate": { "custom_model_data": 10000040 }, "model": "asurvival:gui/helmet_decorative" },
+		{ "predicate": { "custom_model_data": 10000041 }, "model": "asurvival:gui/chestplate_decorative" },
+		{ "predicate": { "custom_model_data": 10000042 }, "model": "asurvival:gui/leggings_decorative" },
+		{ "predicate": { "custom_model_data": 10000043 }, "model": "asurvival:gui/boots_decorative" },
+		{ "predicate": { "custom_model_data": 10000044 }, "model": "asurvival:gui/map" },
+		{ "predicate": { "custom_model_data": 10000045 }, "model": "asurvival:gui/map_locked" }
 	]
 }

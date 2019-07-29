@@ -1,0 +1,40 @@
+{
+	"textures": {
+		"0": "asurvival:mobs/infested_zombie",
+		"1": "asurvival:mobs/overgrowth"
+	},
+	"elements": [
+		{
+			"from": [12, 9, 6],
+			"to": [16, 21, 10],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 19, 8]},
+			"faces": {
+				"north": {"uv": [9.5, 8.5, 10.5, 11.5], "texture": "#1"},
+				"east": {"uv": [10.25, 8.25, 11.25, 11.25], "texture": "#1"},
+				"south": {"uv": [8.25, 8.5, 9.25, 11.5], "texture": "#1"},
+				"west": {"uv": [9.25, 8.5, 10.25, 11.5], "texture": "#1"},
+				"up": {"uv": [10, 8, 11, 9], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [9.25, 8.5, 10.25, 9.5], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [12, 9, 6],
+			"to": [16, 21, 10],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 19, 8]},
+			"faces": {
+				"north": {"uv": [11, 5, 12, 8], "texture": "#0"},
+				"east": {"uv": [10, 5, 11, 8], "texture": "#0"},
+				"south": {"uv": [13, 5, 14, 8], "texture": "#0"},
+				"west": {"uv": [12, 5, 13, 8], "texture": "#0"},
+				"up": {"uv": [11, 4, 12, 5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [12, 4, 13, 5], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation": [45, 0, 0],
+			"translation": [6, -9.75, 2.25]
+		}
+	}
+}
