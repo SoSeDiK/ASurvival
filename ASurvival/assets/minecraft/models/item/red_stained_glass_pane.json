@@ -5,6 +5,7 @@
     },
 	"overrides": [
 		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:gui/menu/enhanced_crafting_table" },
-		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:gui/menu/bleeding" }
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:gui/menu/crafting_table" },
+		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:gui/menu/bleeding" }
 	]
 }

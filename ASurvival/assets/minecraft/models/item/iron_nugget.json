@@ -58,6 +58,7 @@
 		{ "predicate": { "custom_model_data": 10000051 }, "model": "asurvival:item/mob_drop/king_slime/slime_core" },
 		{ "predicate": { "custom_model_data": 10000052 }, "model": "asurvival:item/pet/slime_pet" },
 		{ "predicate": { "custom_model_data": 10000053 }, "model": "asurvival:item/tool/water_gun" },
-		{ "predicate": { "custom_model_data": 10000054 }, "model": "asurvival:item/tool/slime_gun" }
+		{ "predicate": { "custom_model_data": 10000054 }, "model": "asurvival:item/tool/slime_gun" },
+		{ "predicate": { "custom_model_data": 10000055 }, "model": "asurvival:block/furniture/test" }
 	]
 }
