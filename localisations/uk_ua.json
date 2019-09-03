@@ -21,7 +21,7 @@
     "additional.spigot.restart": "&6Виконується перезавантаження серверу.",
     "additional.spigot.whitelist": "&6На сервері проводяться &с&nтехнічні роботи&6.\n&6Просимо вибачення за надані незручності!",
     "additional.tab.footer": "\n &7Пінг: {0}   &7TPS: {1} ",
-    "additional.tab.header": "&lＨａｒｄｃｏｒｅ\n ",
+    "additional.tab.header": "\n&lＨａｒｄｃｏｒｅ\n ",
     "effect.bribe.name": " Підкуп",
     "effect.cold_resistance.name": " Супротив холоду",
     "effect.comfort.name": " Комфорт",

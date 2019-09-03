@@ -21,7 +21,7 @@
     "additional.spigot.restart": "&6Server is restarting.",
     "additional.spigot.whitelist": "&c&nTechnical&6 work is carried out over the server.\n&6Sorry for any inconvenience!",
     "additional.tab.footer": "\n &7Ping: {0}   &7TPS: {1} ",
-    "additional.tab.header": "&lＨａｒｄｃｏｒｅ\n ",
+    "additional.tab.header": "\n&lＨａｒｄｃｏｒｅ\n ",
     "effect.bribe.name": " Bribe",
     "effect.cold_resistance.name": " Cold Resistance",
     "effect.comfort.name": " Comfort",

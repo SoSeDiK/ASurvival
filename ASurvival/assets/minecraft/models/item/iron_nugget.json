@@ -33,8 +33,6 @@
 		{ "predicate": { "custom_model_data": 10000026 }, "model": "asurvival:item/glass_shard/yellow_glass_shard" },
 		{ "predicate": { "custom_model_data": 10000027 }, "model": "asurvival:item/scribing_tools" },
 		{ "predicate": { "custom_model_data": 10000028 }, "model": "asurvival:item/tool/portable_crafter" },
-		{ "predicate": { "custom_model_data": 10000029 }, "model": "asurvival:item/slime_standing" },
-		{ "predicate": { "custom_model_data": 10000030 }, "model": "asurvival:item/slime_jumping" },
 		{ "predicate": { "custom_model_data": 10000031 }, "model": "asurvival:item/mob_drop/poison" },
 		{ "predicate": { "custom_model_data": 10000032 }, "model": "asurvival:item/gloves/leather_gloves" },
 		{ "predicate": { "custom_model_data": 10000033 }, "model": "asurvival:item/gloves/chainmail_gloves" },

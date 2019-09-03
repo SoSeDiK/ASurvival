@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/slime_ball"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/slime_standing" },
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/slime_jumping" }
+	]
+}
