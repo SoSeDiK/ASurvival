@@ -1,0 +1,6 @@
+{
+	"parent": "asurvival:mob/mummy/head",
+	"textures": {
+		"0": "asurvival:mobs/mummy_hurt"
+	}
+}

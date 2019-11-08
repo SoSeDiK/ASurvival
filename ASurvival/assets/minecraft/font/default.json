@@ -85,6 +85,14 @@
 	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_half_poisoned.png", "ascent": -15, "height": 9, "chars": [ "\uE492" ] },
 	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_poisoned.png", "ascent": -6, "height": 9, "chars": [ "\uE493" ] },
 	{ "type": "bitmap", "file": "asurvival:font/thirst/thirst_half_poisoned.png", "ascent": -6, "height": 9, "chars": [ "\uE494" ] },
+	{ "type": "bitmap", "file": "asurvival:font/nutrition/back.png", "ascent": 9, "height": 10, "chars": [ "\uE495" ] },
+	{ "type": "bitmap", "file": "asurvival:font/nutrition/dairy.png", "ascent": 8, "height": 9, "chars": [ "\uE496" ] },
+	{ "type": "bitmap", "file": "asurvival:font/nutrition/fruit.png", "ascent": 8, "height": 9, "chars": [ "\uE497" ] },
+	{ "type": "bitmap", "file": "asurvival:font/nutrition/grain.png", "ascent": 8, "height": 9, "chars": [ "\uE498" ] },
+	{ "type": "bitmap", "file": "asurvival:font/nutrition/protein.png", "ascent": 8, "height": 9, "chars": [ "\uE499" ] },
+	{ "type": "bitmap", "file": "asurvival:font/nutrition/vegetable.png", "ascent": 8, "height": 9, "chars": [ "\uE49A" ] },
+	{ "type": "bitmap", "file": "asurvival:font/nutrition/infection.png", "ascent": 8, "height": 9, "chars": [ "\uE49B" ] },
+	{ "type": "bitmap", "file": "asurvival:font/nutrition/vampirism.png", "ascent": 8, "height": 9, "chars": [ "\uE49C" ] },
     {
       "type": "bitmap",
       "file": "font/unicode_page_e1.png",
@@ -165,6 +173,13 @@
 	{ "type": "bitmap", "file": "item/golden_sword.png", "ascent": 7, "chars": [ "\uE51F" ] },
 	{ "type": "bitmap", "file": "item/potion.png", "ascent": 7, "chars": [ "\uE520" ] },
 	{ "type": "bitmap", "file": "item/fishing_rod.png", "ascent": 7, "chars": [ "\uE521" ] },
-	{ "type": "bitmap", "file": "mob_effect/jump_boost.png", "ascent": 7, "chars": [ "\uE522" ] }
+	{ "type": "bitmap", "file": "mob_effect/jump_boost.png", "ascent": 7, "chars": [ "\uE522" ] },
+	{ "type": "bitmap", "file": "item/milk_bucket.png", "ascent": 7, "chars": [ "\uE523" ] },
+	{ "type": "bitmap", "file": "item/apple.png", "ascent": 7, "chars": [ "\uE524" ] },
+	{ "type": "bitmap", "file": "item/wheat.png", "ascent": 7, "chars": [ "\uE525" ] },
+	{ "type": "bitmap", "file": "item/cooked_beef.png", "ascent": 7, "chars": [ "\uE526" ] },
+	{ "type": "bitmap", "file": "item/carrot.png", "ascent": 7, "chars": [ "\uE527" ] },
+	{ "type": "bitmap", "file": "item/rotten_flesh.png", "ascent": 7, "chars": [ "\uE528" ] },
+	{ "type": "bitmap", "file": "item/beetroot_soup.png", "ascent": 7, "chars": [ "\uE529" ] }
   ]
 }

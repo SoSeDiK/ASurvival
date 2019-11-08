@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "asurvival:item/parasite_in_the_bottle",
+        "layer1": "asurvival:item/parasite_in_the_bottle"
+    }
+}

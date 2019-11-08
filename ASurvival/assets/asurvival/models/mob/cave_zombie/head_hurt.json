@@ -1,0 +1,6 @@
+{
+	"parent": "asurvival:mob/cave_zombie/head",
+	"textures": {
+		"0": "asurvival:mobs/cave_dweller_hurt"
+	}
+}

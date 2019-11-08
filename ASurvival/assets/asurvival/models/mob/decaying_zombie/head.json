@@ -1,0 +1,38 @@
+{
+	"textures": {
+		"0": "asurvival:mobs/miskull",
+		"1": "asurvival:mobs/decaying_zombie"
+	},
+	"elements": [
+		{
+			"from": [3.9, 20.9, 3.9],
+			"to": [12.1, 29.1, 12.1],
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#1"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#1"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#1"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#1"},
+				"up": {"uv": [2, 0, 4, 2], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [4, 2, 6, 0], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [4.1, 21, 4.1],
+			"to": [11.9, 28.9, 11.9],
+			"faces": {
+				"north": {"uv": [8, 4, 4, 8], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"south": {"uv": [4, 0, 0, 4], "texture": "#0"},
+				"west": {"uv": [8, 4, 12, 8], "texture": "#0"},
+				"up": {"uv": [8, 4, 4, 0], "texture": "#0"},
+				"down": {"uv": [12, 4, 8, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -27.25, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

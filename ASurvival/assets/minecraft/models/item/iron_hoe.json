@@ -24,6 +24,12 @@
 		{ "predicate": { "custom_model_data": 10000017 }, "model": "asurvival:mob/brazen_still" },
 		{ "predicate": { "custom_model_data": 10000018 }, "model": "asurvival:mob/brazen_moving" },
 		{ "predicate": { "custom_model_data": 10000019 }, "model": "asurvival:mob/brazen_damaged" },
-		{ "predicate": { "custom_model_data": 10000020 }, "model": "asurvival:mob/king_slime/ruby_crown" }
+		{ "predicate": { "custom_model_data": 10000020 }, "model": "asurvival:mob/king_slime/ruby_crown" },
+		{ "predicate": { "custom_model_data": 10000021 }, "model": "asurvival:mob/yeti_still" },
+		{ "predicate": { "custom_model_data": 10000022 }, "model": "asurvival:mob/yeti_moving" },
+		{ "predicate": { "custom_model_data": 10000023 }, "model": "asurvival:mob/yeti_damaged" },
+		{ "predicate": { "custom_model_data": 10000024 }, "model": "asurvival:mob/yeti_baby_still" },
+		{ "predicate": { "custom_model_data": 10000025 }, "model": "asurvival:mob/yeti_baby_moving" },
+		{ "predicate": { "custom_model_data": 10000026 }, "model": "asurvival:mob/yeti_baby_damaged" }
 	]
 }

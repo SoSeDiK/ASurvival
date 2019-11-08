@@ -1,0 +1,7 @@
+{
+	"parent": "asurvival:mob/surfaced_zombie/head",
+	"textures": {
+		"0": "asurvival:mobs/surfaced_zombie_hurt",
+		"1": "asurvival:mobs/overgrowth_hurt"
+	}
+}

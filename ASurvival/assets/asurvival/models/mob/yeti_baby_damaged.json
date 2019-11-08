@@ -1,0 +1,6 @@
+{
+	"parent": "asurvival:mob/yeti_baby_moving",
+    "textures": {
+        "0": "asurvival:mob/yeti_baby_damaged"
+    }
+}

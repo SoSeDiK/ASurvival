@@ -1,0 +1,73 @@
+{
+	"textures": {
+		"0": "asurvival:mobs/frozen_zombie"
+	},
+	"elements": [
+		{
+			"from": [4, -0.5, 6],
+			"to": [8, 11.5, 10],
+			"faces": {
+				"north": {"uv": [1, 13, 2, 16], "texture": "#0"},
+				"east": {"uv": [0, 13, 1, 16], "texture": "#0"},
+				"south": {"uv": [3, 13, 4, 16], "texture": "#0"},
+				"west": {"uv": [2, 13, 3, 16], "texture": "#0"},
+				"up": {"uv": [1, 1, 0, 0], "texture": "#0"},
+				"down": {"uv": [1, 0, 0, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 11.5, 6],
+			"to": [12, 23.5, 10],
+			"faces": {
+				"north": {"uv": [5, 5, 7, 7.98], "texture": "#0"},
+				"east": {"uv": [4, 5, 5, 8], "texture": "#0"},
+				"south": {"uv": [8, 5, 10, 8], "texture": "#0"},
+				"west": {"uv": [7, 5, 8, 7.98], "texture": "#0"},
+				"up": {"uv": [7, 5, 5, 4], "texture": "#0"},
+				"down": {"uv": [9, 4, 7, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -0.5, 6],
+			"to": [12, 11.5, 10],
+			"faces": {
+				"north": {"uv": [1, 5, 2, 8], "texture": "#0"},
+				"east": {"uv": [0, 5, 1, 8], "texture": "#0"},
+				"south": {"uv": [3, 5, 4, 8], "texture": "#0"},
+				"west": {"uv": [2, 5, 3, 8], "texture": "#0"},
+				"up": {"uv": [2, 5, 1, 4], "texture": "#0"},
+				"down": {"uv": [3, 4, 2, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, -0.5, 6],
+			"to": [8, 11.5, 10],
+			"faces": {
+				"north": {"uv": [1, 5, 2, 8], "texture": "#0"},
+				"east": {"uv": [0, 5, 1, 8], "texture": "#0"},
+				"south": {"uv": [3, 5, 4, 8], "texture": "#0"},
+				"west": {"uv": [2, 5, 3, 8], "texture": "#0"},
+				"up": {"uv": [2, 5, 1, 4], "texture": "#0"},
+				"down": {"uv": [3, 4, 2, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -0.5, 6],
+			"to": [12, 11.5, 10],
+			"faces": {
+				"north": {"uv": [1, 13, 2, 16], "texture": "#0"},
+				"east": {"uv": [0, 13, 1, 16], "texture": "#0"},
+				"south": {"uv": [3, 13, 4, 16], "texture": "#0"},
+				"west": {"uv": [2, 13, 3, 16], "texture": "#0"},
+				"up": {"uv": [1, 1, 0, 0], "texture": "#0"},
+				"down": {"uv": [1, 0, 0, 1], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -66.8, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

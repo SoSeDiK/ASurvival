@@ -1,0 +1,6 @@
+{
+	"parent": "asurvival:mob/frozen_zombie/left_hand",
+	"textures": {
+		"0": "asurvival:mobs/frozen_zombie_hurt"
+	}
+}

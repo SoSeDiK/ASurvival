@@ -1,0 +1,7 @@
+{
+	"parent": "asurvival:mob/miskull/right_hand",
+	"textures": {
+		"0": "asurvival:mobs/miskull_hurt",
+		"1": "asurvival:mobs/overgrowth"
+	}
+}

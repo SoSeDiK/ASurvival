@@ -1,0 +1,7 @@
+{
+	"parent": "asurvival:mob/decaying_zombie/right_hand",
+	"textures": {
+		"0": "asurvival:mobs/miskull_hurt",
+		"1": "asurvival:mobs/decaying_zombie_hurt"
+	}
+}
