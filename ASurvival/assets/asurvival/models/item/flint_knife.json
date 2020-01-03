@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "asurvival:item/flower_bouquet"
+        "layer0": "asurvival:item/flint_knife"
     }
 }

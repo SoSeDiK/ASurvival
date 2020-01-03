@@ -234,6 +234,7 @@
     "item.flint_pickaxe.name": "Кремнієве кайло",
     "item.flint_shears.name": "Кремнієві ножиці",
     "item.flint_shovel.name": "Кремнієва лопата",
+    "item.flint_knife.name": "Кремнієвий ніж",
     "item.ghost_item.lore": "&r &oПримарний предмет\n&7&oВін не існує :O\n&r",
     "item.ghost_item.name": "&r",
     "item.gilded_iron_gloves.lore": "&r&7 Дають можливість набирати\n&r &7воду в холодних біомах,\n&r &7а також лаву",

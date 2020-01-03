@@ -234,6 +234,7 @@
     "item.flint_pickaxe.name": "Flint Pickaxe",
     "item.flint_shears.name": "Flint Shears",
     "item.flint_shovel.name": "Flint Shovel",
+    "item.flint_knife.name": "Flint Knife",
     "item.ghost_item.lore": "&r &oGhost Item\n&7&oIt does not exist :O\n&r",
     "item.ghost_item.name": "&r",
     "item.gilded_iron_gloves.lore": "&r&7 Allow picking up water in\ncold biomes as well as lava",

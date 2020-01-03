@@ -7,6 +7,7 @@
 		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/grass_mesh" },
 		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/empty_canteen" },
 		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/canteen" },
-		{ "predicate": { "custom_model_data": 10000003 }, "model": "asurvival:item/flower_bouquet" }
+		{ "predicate": { "custom_model_data": 10000003 }, "model": "asurvival:item/flower_bouquet" },
+		{ "predicate": { "custom_model_data": 10000004 }, "model": "asurvival:item/flint_knife" }
 	]
 }
