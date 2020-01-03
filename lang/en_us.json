@@ -39,10 +39,10 @@
 "advancement.make_a_flint.description": "Get something by sifting Gravel through Mesh",
 
 "advancement.make_a_flint_shovel.title": "Mining gravel",
-"advancement.make_a_flint_shovel.description": "Make a flint shovel using a stick, a flint and a twine",
+"advancement.make_a_flint_shovel.description": "Make a flint shovel using a stick, a flaked flint and a twine",
 
 "advancement.get_a_log.title": "A Tree Hater",
-"advancement.get_a_log.description": "Attack a tree with axe until the log pops out",
+"advancement.get_a_log.description": "Attack a tree with an axe until the log pops out",
 
 "advancement.make_a_chopping_block.title": "Chopping down",
 "advancement.make_a_chopping_block.description": "Combine a log with an axe to make a chopping block",
@@ -60,7 +60,7 @@
 "advancement.get_a_cobblestone.description": "Get some cobblestone with your pickaxe",
 
 "advancement.make_a_hammer.title": "Let's build a house",
-"advancement.make_a_hammer.description": "Make a hammer with a stick and two cobblestones",
+"advancement.make_a_hammer.description": "Make a hammer with a stick, a twine and two cobblestones",
 
 "advancement.make_a_crafting_table.title": "Benchmarking",
 "advancement.make_a_crafting_table.description": "Construct a crafting bench with a hammer, a log, a flint and a mesh",

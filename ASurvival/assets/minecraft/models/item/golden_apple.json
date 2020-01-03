@@ -6,6 +6,7 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/food/creeper_heart" },
 		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/food/grilled_red_mushroom" },
-		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/food/mud_flesh" }
+		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/food/mud_flesh" },
+		{ "predicate": { "custom_model_data": 10000003 }, "model": "asurvival:item/food/grilled_wither_rose" }
 	]
 }

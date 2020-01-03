@@ -4,6 +4,6 @@
 		"layer0": "item/porkchop"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/mob_drop/villager/human_meat" }
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/food/human_meat" }
 	]
 }

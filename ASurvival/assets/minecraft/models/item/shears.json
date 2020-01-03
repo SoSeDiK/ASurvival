@@ -4,6 +4,6 @@
         "layer0": "item/shears"
     },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/tool/shears/flint_shears" }
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/flint_shears" }
 	]
 }

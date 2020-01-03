@@ -39,7 +39,7 @@
 "advancement.make_a_flint.description": "Получите что-нибудь, просыпав гравий через сетку",
 
 "advancement.make_a_flint_shovel.title": "Добываем гравий",
-"advancement.make_a_flint_shovel.description": "Создайте кремнёвую лопату из палки, кремня и бечёвки",
+"advancement.make_a_flint_shovel.description": "Создайте кремнёвую лопату из палки, осколка кремня и бечёвки",
 
 "advancement.get_a_log.title": "Нарубить дров",
 "advancement.get_a_log.description": "Бейте дерево топором, пока оно не сломается",
@@ -60,7 +60,7 @@
 "advancement.get_a_cobblestone.description": "Добудьте немного булыжника при помощи кирки",
 
 "advancement.make_a_hammer.title": "Начинаем строить дом",
-"advancement.make_a_hammer.description": "Создайте молоток из палки и двух булыжника",
+"advancement.make_a_hammer.description": "Создайте молоток из палки, бечёвки и двух булыжника",
 
 "advancement.make_a_crafting_table.title": "Рабочий стол",
 "advancement.make_a_crafting_table.description": "Создайте верстак при помощи молотка, бревна, кремня и сетки из травяного волокна",

@@ -5,6 +5,23 @@
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/food/fried_egg" },
-		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/food/grilled_brown_mushroom" }
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/food/grilled_brown_mushroom" },
+		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/food/grilled_allium" },
+		{ "predicate": { "custom_model_data": 10000003 }, "model": "asurvival:item/food/grilled_azure_bluet" },
+		{ "predicate": { "custom_model_data": 10000004 }, "model": "asurvival:item/food/grilled_blue_orchid" },
+		{ "predicate": { "custom_model_data": 10000005 }, "model": "asurvival:item/food/grilled_cornflower" },
+		{ "predicate": { "custom_model_data": 10000006 }, "model": "asurvival:item/food/grilled_dandelion" },
+		{ "predicate": { "custom_model_data": 10000007 }, "model": "asurvival:item/food/grilled_lily_of_the_valley" },
+		{ "predicate": { "custom_model_data": 10000008 }, "model": "asurvival:item/food/grilled_orange_tulip" },
+		{ "predicate": { "custom_model_data": 10000009 }, "model": "asurvival:item/food/grilled_oxeye_daisy" },
+		{ "predicate": { "custom_model_data": 10000010 }, "model": "asurvival:item/food/grilled_pink_tulip" },
+		{ "predicate": { "custom_model_data": 10000011 }, "model": "asurvival:item/food/grilled_poppy" },
+		{ "predicate": { "custom_model_data": 10000012 }, "model": "asurvival:item/food/grilled_red_tulip" },
+		{ "predicate": { "custom_model_data": 10000013 }, "model": "asurvival:item/food/grilled_white_tulip" },
+		{ "predicate": { "custom_model_data": 10000014 }, "model": "asurvival:item/food/grilled_sea_pickle" },
+		{ "predicate": { "custom_model_data": 10000015 }, "model": "asurvival:item/food/grilled_lilac" },
+		{ "predicate": { "custom_model_data": 10000016 }, "model": "asurvival:item/food/grilled_peony" },
+		{ "predicate": { "custom_model_data": 10000017 }, "model": "asurvival:item/food/grilled_rose_bush" },
+		{ "predicate": { "custom_model_data": 10000018 }, "model": "asurvival:item/food/grilled_sunflower" }
 	]
 }

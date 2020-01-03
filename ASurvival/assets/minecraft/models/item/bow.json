@@ -37,6 +37,7 @@
 		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:mob/infected_skeleton/jungle_bow_hurt" },
 		{ "predicate": { "custom_model_data": 10000002, "pulling": 1 }, "model": "asurvival:mob/infected_skeleton/jungle_bow_0_hurt" },
 		{ "predicate": { "custom_model_data": 10000002, "pulling": 1, "pull": 0.5 }, "model": "asurvival:mob/infected_skeleton/jungle_bow_1_hurt" },
-		{ "predicate": { "custom_model_data": 10000002, "pulling": 1, "pull": 1 }, "model": "asurvival:mob/infected_skeleton/jungle_bow_2_hurt" }
+		{ "predicate": { "custom_model_data": 10000002, "pulling": 1, "pull": 1 }, "model": "asurvival:mob/infected_skeleton/jungle_bow_2_hurt" },
+		{ "predicate": { "custom_model_data": 10000003 }, "model": "item/air" }
     ]
 }

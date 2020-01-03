@@ -1,6 +1,6 @@
 {
 	"parent": "asurvival:mob/mummy/moving",
 	"textures": {
-		"0": "asurvival:mobs/mummy_hurt"
+		"0": "asurvival:mobs/animations/mummy_hurt"
 	}
 }

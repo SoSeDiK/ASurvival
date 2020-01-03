@@ -6,10 +6,10 @@
 "advancement.final.description": "Немає нічого неможливого!",
 
 "advancement.get_a_branch.title": "Просуваємось",
-"advancement.get_a_branch.description": "Заполучіть гілки з листви або мертвого куща",
+"advancement.get_a_branch.description": "Отримайте гілки з листви або мертвого куща",
 
 "advancement.get_a_fiber.title": "Озеленення",
-"advancement.get_a_fiber.description": "Заполучіть трав’яне волокно",
+"advancement.get_a_fiber.description": "Отримайте трав’яне волокно",
 
 "advancement.make_a_twine.title": "Намотай собі на вус",
 "advancement.make_a_twine.description": "Створіть трав’яну мотузку з трьох трав’яних волокон",
@@ -24,7 +24,7 @@
 "advancement.make_a_gravel.description": "Найдіть або сформуйте гравій, добре розтоптавши блок трави",
 
 "advancement.get_a_flint.title": "Кремнієва ера",
-"advancement.get_a_flint.description": "Заполучіть кремінь із гравію",
+"advancement.get_a_flint.description": "Отримайте кремінь із гравію",
 
 "advancement.get_a_flaked_flint.title": "Упс! Щось відкололось",
 "advancement.get_a_flaked_flint.description": "Сформуйте кремнієвий уламок, постукавши ним об камінь",
@@ -36,10 +36,10 @@
 "advancement.make_a_grass_mesh.description": "Створіть сітку з трав’яного волокна, використовуючи дві палки та трав’яні мотузки",
 
 "advancement.make_a_flint.title": "У пошуках скарбів",
-"advancement.make_a_flint.description": "Заполучіть що-небудь, просипавши гравій через сітку",
+"advancement.make_a_flint.description": "Отримайте що-небудь, просипавши гравій через сітку",
 
 "advancement.make_a_flint_shovel.title": "Добуваєм гравій",
-"advancement.make_a_flint_shovel.description": "Створіть кремнієву лопату з палки, кремню та трав’яної мотузки",
+"advancement.make_a_flint_shovel.description": "Створіть кремнієву лопату з палки, уламку кремню та трав’яної мотузки",
 
 "advancement.get_a_log.title": "Наламати дров",
 "advancement.get_a_log.description": "Рубіть дерево сокирою, допоки воно не зламається",
@@ -51,22 +51,22 @@
 "advancement.make_planks.description": "Розрубіть колоду дерева сокирою на обробному пеньку, щоб заполучити доски",
 
 "advancement.make_more_sticks.title": "Дерев’яні вироби",
-"advancement.make_more_sticks.description": "Заполучіть ідеальні палки, розрубавши доски на обробному пеньку",
+"advancement.make_more_sticks.description": "Отримайте ідеальні палки, розрубавши доски на обробному пеньку",
 
 "advancement.make_a_flint_pickaxe.title": "Починаєм майнити",
 "advancement.make_a_flint_pickaxe.description": "Створіть кремнієве кайло з палки, доски и двох кремня",
 
 "advancement.get_a_cobblestone.title": "Камінчики",
-"advancement.get_a_cobblestone.description": "Заполучіть кругляк за допомоги кайла",
+"advancement.get_a_cobblestone.description": "Отримайте кругляк за допомоги кайла",
 
 "advancement.make_a_hammer.title": "Давайте будувати дім",
-"advancement.make_a_hammer.description": "Створіть молоток з палки та двох кругляків",
+"advancement.make_a_hammer.description": "Створіть молоток з палки, мотузки та двох кругляків",
 
 "advancement.make_a_crafting_table.title": "Рабочий стіл",
 "advancement.make_a_crafting_table.description": "Створіть верстак за допомоги молотка, дерев’яної колоди, кремню та сітки з трав’яного волокна",
 
 "advancement.get_a_clay_ball.title": "В розбитому горщику каші не звариш",
-"advancement.get_a_clay_ball.description": "Заполучіть глину за допомогою лопати",
+"advancement.get_a_clay_ball.description": "Отримайте глину за допомогою лопати",
 
 "advancement.make_a_fire.title": "Вогняне чудо",
 "advancement.make_a_fire.description": "Розведіть багаття, почергово клацаючи необробленими палками в обох руках",

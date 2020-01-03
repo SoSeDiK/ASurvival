@@ -4,7 +4,7 @@
 		"layer0": "item/chicken"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/mob_drop/bat/bat_meat" },
-		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/mob_drop/bat/bat_wing" }
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/food/bat_meat" },
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/food/bat_wing" }
 	]
 }

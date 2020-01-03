@@ -1,66 +1,23 @@
 {
-	"asurvival.ambient.heart_lowbeat": {
-		"category": "master",
-		"sounds": [
-			{
-				"name": "asurvival/ambient/heart_lowbeat"
-			}
-		]
-	},
-	"asurvival.ambient.heart_highbeat": {
-		"category": "master",
-		"sounds": [
-			{
-				"name": "asurvival/ambient/heart_highbeat"
-			}
-		]
-	},
-	"asurvival.item.craft_flake_success": {
-		"category": "master",
-		"sounds": [
-			{
-				"name": "asurvival/item/craft_flake_success"
-			}
-		]
-	},
-	"asurvival.item.craft_flake_fail": {
-		"category": "master",
-		"sounds": [
-			{
-				"name": "asurvival/item/craft_flake_fail"
-			}
-		]
-	},
-	"asurvival.block.wood_chop": {
-		"category": "master",
-		"sounds": [
-			{
-				"name": "asurvival/block/wood_chop"
-			}
-		]
-	},
-	"asurvival.block.radio_beep": {
-		"category": "master",
-		"sounds": [
-			{
-				"name": "asurvival/block/radio_beep"
-			}
-		]
-	},
-	"asurvival.block.radio_thunder": {
-		"category": "master",
-		"sounds": [
-			{
-				"name": "asurvival/block/radio_thunder"
-			}
-		]
-	},
-	"asurvival.block.radio_switch": {
-		"category": "master",
-		"sounds": [
-			{
-				"name": "asurvival/block/radio_switch"
-			}
-		]
-	}
+	"asurvival.ambient.heart_lowbeat":{"category":"master","sounds":[{"name":"asurvival/ambient/heart_lowbeat"}]},
+	"asurvival.ambient.heart_highbeat":{"category":"master","sounds":[{"name":"asurvival/ambient/heart_highbeat"}]},
+
+	"asurvival.item.craft_flake_success":{"category":"master","sounds":[{"name":"asurvival/item/craft_flake_success"}]},
+	"asurvival.item.craft_flake_fail":{"category":"master","sounds":[{"name":"asurvival/item/craft_flake_fail"}]},
+
+	"asurvival.block.wood_chop":{"category":"master","sounds":[{"name":"asurvival/block/wood_chop"}]},
+
+	"asurvival.entity.scorpion.hurt":{"category":"master","sounds":[{"name":"asurvival/entity/scorpion/hurt"}]},
+	"asurvival.entity.scorpion.death":{"category":"master","sounds":[{"name":"asurvival/entity/scorpion/death"}]},
+	"asurvival.entity.scorpion.idle":{"category":"master","sounds":[{"name":"asurvival/entity/scorpion/idle"}]},
+	"asurvival.entity.scorpion.sting":{"category":"master","sounds":[{"name":"asurvival/entity/scorpion/sting"}]},
+	"asurvival.entity.scorpion.claw":{"category":"master","sounds":[{"name":"asurvival/entity/scorpion/claw"}]},
+
+	"asurvival.entity.bullant.hurt":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/hurt"}]},
+	"asurvival.entity.bullant.death":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/death"}]},
+	"asurvival.entity.bullant.idle":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/idle"}]},
+	"asurvival.entity.bullant.step":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/step"}]},
+	"asurvival.entity.bullant.attack0":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/attack0"}]},
+	"asurvival.entity.bullant.attack1":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/attack1"}]},
+	"asurvival.entity.bullant.attack2":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/attack2"}]}
  }

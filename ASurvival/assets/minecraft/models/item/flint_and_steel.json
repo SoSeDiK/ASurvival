@@ -4,6 +4,6 @@
 		"layer0": "item/flint_and_steel"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/tool/firestriker" }
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/firestriker" }
 	]
 }

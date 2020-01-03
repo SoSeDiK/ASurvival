@@ -4,6 +4,6 @@
 		"layer0": "item/spider_eye"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/mob_drop/scorpion/scorpion_eye" }
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/scorpion_eye" }
 	]
 }

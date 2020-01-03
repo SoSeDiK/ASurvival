@@ -4,8 +4,8 @@
         "layer0": "item/bone"
     },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/mob_drop/wither_skeleton/dark_bone" },
-		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/mob_drop/skeleton/bone_hand" },
-		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/mob_drop/skeleton/bone_feet" }
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/dark_bone" },
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/bone_hand" },
+		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/bone_feet" }
 	]
 }

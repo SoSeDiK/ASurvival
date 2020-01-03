@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_sword"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/grass_mesh" },
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/empty_canteen" },
+		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/canteen" },
+		{ "predicate": { "custom_model_data": 10000003 }, "model": "asurvival:item/flower_bouquet" }
+	]
+}

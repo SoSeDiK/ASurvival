@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "asurvival:item/mob_drop/villager/human_meat"
-    }
-}
