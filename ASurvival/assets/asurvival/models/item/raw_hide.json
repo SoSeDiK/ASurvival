@@ -1,0 +1,6 @@
+{
+    "parent": "item/leather",
+    "textures": {
+        "layer0": "asurvival:item/raw_hide"
+    }
+}

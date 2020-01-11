@@ -4,6 +4,6 @@
 		"layer0": "item/gunpowder"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/mob_drop/blaze/ash" }
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/ash" }
 	]
 }

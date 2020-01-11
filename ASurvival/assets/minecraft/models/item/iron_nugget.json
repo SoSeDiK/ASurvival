@@ -57,10 +57,23 @@
 		{ "predicate": { "custom_model_data": 10000050 }, "model": "asurvival:item/king_slime" },
 		{ "predicate": { "custom_model_data": 10000051 }, "model": "asurvival:item/pet/slime_pet" },
 		{ "predicate": { "custom_model_data": 10000052 }, "model": "asurvival:item/slime_egg" },
-		{ "predicate": { "custom_model_data": 10000053 }, "model": "asurvival:item/water_gun" },
-		{ "predicate": { "custom_model_data": 10000054 }, "model": "asurvival:item/slime_gun" },
-		{ "predicate": { "custom_model_data": 10000055 }, "model": "asurvival:block/furniture/test" },
+		{ "predicate": { "custom_model_data": 10000053 }, "model": "asurvival:item/iron_lump" },
+		{ "predicate": { "custom_model_data": 10000054 }, "model": "asurvival:item/gold_lump" },
+		{ "predicate": { "custom_model_data": 10000055 }, "model": "asurvival:block/furniture/rack" },
 		{ "predicate": { "custom_model_data": 10000056 }, "model": "asurvival:block/reed_block" },
-		{ "predicate": { "custom_model_data": 10000057 }, "model": "asurvival:block/enhanced_crafting_table" }
+		{ "predicate": { "custom_model_data": 10000057 }, "model": "asurvival:block/enhanced_crafting_table" },
+		{ "predicate": { "custom_model_data": 10000058 }, "model": "asurvival:item/salted_hide" },
+		{ "predicate": { "custom_model_data": 10000059 }, "model": "asurvival:item/bark/oak_bark" },
+		{ "predicate": { "custom_model_data": 10000060 }, "model": "asurvival:item/bark/spruce_bark" },
+		{ "predicate": { "custom_model_data": 10000061 }, "model": "asurvival:item/bark/birch_bark" },
+		{ "predicate": { "custom_model_data": 10000062 }, "model": "asurvival:item/bark/jungle_bark" },
+		{ "predicate": { "custom_model_data": 10000063 }, "model": "asurvival:item/bark/acacia_bark" },
+		{ "predicate": { "custom_model_data": 10000064 }, "model": "asurvival:item/bark/dark_oak_bark" },
+		{ "predicate": { "custom_model_data": 10000065 }, "model": "asurvival:item/raw_hide" },
+		{ "predicate": { "custom_model_data": 10000066 }, "model": "asurvival:item/dried_hide" },
+		{ "predicate": { "custom_model_data": 10000067 }, "model": "asurvival:item/tanned_hide" },
+		{ "predicate": { "custom_model_data": 10000068 }, "model": "asurvival:item/rack" },
+		{ "predicate": { "custom_model_data": 10000069 }, "model": "asurvival:item/ground_resin" },
+		{ "predicate": { "custom_model_data": 10000070 }, "model": "asurvival:item/salt" }
 	]
 }

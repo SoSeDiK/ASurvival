@@ -8,6 +8,8 @@
 		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/empty_canteen" },
 		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/canteen" },
 		{ "predicate": { "custom_model_data": 10000003 }, "model": "asurvival:item/flower_bouquet" },
-		{ "predicate": { "custom_model_data": 10000004 }, "model": "asurvival:item/flint_knife" }
+		{ "predicate": { "custom_model_data": 10000004 }, "model": "asurvival:item/flint_knife" },
+		{ "predicate": { "custom_model_data": 10000005 }, "model": "asurvival:item/water_gun" },
+		{ "predicate": { "custom_model_data": 10000006 }, "model": "asurvival:item/slime_gun" }
 	]
 }

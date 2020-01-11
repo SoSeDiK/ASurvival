@@ -1,0 +1,10 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+		"particle": "block/ablast_furnace_side",
+        "top": "block/afurnace_top",
+        "front": "block/ablast_furnace_front",
+        "side": "block/ablast_furnace_side",
+		"bottom": "block/blast_furnace_top"
+    }
+}
