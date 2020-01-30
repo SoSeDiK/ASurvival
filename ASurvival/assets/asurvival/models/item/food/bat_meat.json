@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "asurvival:item/food/bat_meat"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"asurvival:item/food/bat_meat"}}

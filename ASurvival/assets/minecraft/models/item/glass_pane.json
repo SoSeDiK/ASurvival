@@ -49,6 +49,17 @@
 		{ "predicate": { "custom_model_data": 10000042 }, "model": "asurvival:gui/leggings_decorative" },
 		{ "predicate": { "custom_model_data": 10000043 }, "model": "asurvival:gui/boots_decorative" },
 		{ "predicate": { "custom_model_data": 10000044 }, "model": "asurvival:gui/map" },
-		{ "predicate": { "custom_model_data": 10000045 }, "model": "asurvival:gui/map_locked" }
+		{ "predicate": { "custom_model_data": 10000045 }, "model": "asurvival:gui/map_locked" },
+		{ "predicate": { "custom_model_data": 10000046 }, "model": "asurvival:arrow_1" },
+		{ "predicate": { "custom_model_data": 10000047 }, "model": "asurvival:arrow_2" },
+		{ "predicate": { "custom_model_data": 10000048 }, "model": "asurvival:arrow_3" },
+		{ "predicate": { "custom_model_data": 10000049 }, "model": "asurvival:arrow_4" },
+		{ "predicate": { "custom_model_data": 10000050 }, "model": "asurvival:arrow_5" },
+		{ "predicate": { "custom_model_data": 10000051 }, "model": "asurvival:arrow_6" },
+		{ "predicate": { "custom_model_data": 10000052 }, "model": "asurvival:arrow_7" },
+		{ "predicate": { "custom_model_data": 10000053 }, "model": "asurvival:arrow_8" },
+		{ "predicate": { "custom_model_data": 10000054 }, "model": "asurvival:arrow_9" },
+		{ "predicate": { "custom_model_data": 10000055 }, "model": "asurvival:arrow_10" },
+		{ "predicate": { "custom_model_data": 10000056 }, "model": "asurvival:arrow_11" }
 	]
 }

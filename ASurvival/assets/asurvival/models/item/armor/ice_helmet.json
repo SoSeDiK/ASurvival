@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "asurvival:item/armor/ice_helmet"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"asurvival:item/armor/ice_helmet"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "asurvival:item/food/husk_flesh"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"asurvival:item/food/husk_flesh"}}

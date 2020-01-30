@@ -1,6 +1,6 @@
 {
 "advancement.root.title": "Це лише початок",
-"advancement.root.description": "Кардинально новий світ!",
+"advancement.root.description": "Кардинально новий світ (не забувайте використовувати книгу рецептів!)",
 
 "advancement.final.title": "Початок непростого шляху",
 "advancement.final.description": "Немає нічого неможливого!",
@@ -27,7 +27,7 @@
 "advancement.get_a_flint.description": "Отримайте кремінь із гравію",
 
 "advancement.get_a_flaked_flint.title": "Упс! Щось відкололось",
-"advancement.get_a_flaked_flint.description": "Сформуйте кремнієвий уламок, постукавши (кліки ЛКМ) ним об будь-який тип камню",
+"advancement.get_a_flaked_flint.description": "Сформуйте кремнієвий уламок, постукавши ним об будь-який тип камню",
 
 "advancement.make_a_flint_axe.title": "Потрібно спиляти дерева",
 "advancement.make_a_flint_axe.description": "Створіть кремнієву сокиру з палки, трав’яної мотузки та двох кремнієвих уламків",
@@ -42,7 +42,7 @@
 "advancement.meet_the_flintstones.description": "Заполучіть стак кремню (можно використовувати сітку на гравії за допомоги ПКМ)",
 
 "advancement.make_a_flint.title": "У пошуках скарбів",
-"advancement.make_a_flint.description": "Отримайте що-небудь, просипавши гравій через сітку",
+"advancement.make_a_flint.description": "Отримайте що-небудь особливе, просипавши гравій через сітку",
 
 "advancement.make_a_flint_shovel.title": "Добуваєм гравій",
 "advancement.make_a_flint_shovel.description": "Створіть кремнієву лопату з палки, уламку кремню та трав’яної мотузки",
@@ -54,22 +54,25 @@
 "advancement.make_a_chopping_block.description": "Скомбінуйте колоду дерева та сокиру, щоб заполучити обробний пеньок",
 
 "advancement.make_planks.title": "Кам’яна дерев’яність",
-"advancement.make_planks.description": "Розрубіть колоду дерева сокирою на обробному пеньку (кліки ЛКМ), щоб заполучити доски",
+"advancement.make_planks.description": "Розрубіть колоду дерева сокирою на обробному пеньку, щоб заполучити доски",
 
 "advancement.make_more_sticks.title": "Дерев’яні вироби",
 "advancement.make_more_sticks.description": "Отримайте ідеальні палки, розрубавши доски на обробному пеньку",
 
 "advancement.make_a_flint_pickaxe.title": "Починаєм майнити",
-"advancement.make_a_flint_pickaxe.description": "Створіть кремнієве кайло з палки, доски и двох кремня",
+"advancement.make_a_flint_pickaxe.description": "Створіть кремнієве кайло",
 
-"advancement.get_a_cobblestone.title": "Камінчики",
-"advancement.get_a_cobblestone.description": "Отримайте кругляк за допомоги кайла",
+"advancement.get_a_rock.title": "Камнепад",
+"advancement.get_a_rock.description": "Отримайте камінці за допомоги кайла",
 
-"advancement.make_a_hammer.title": "Давайте будувати дім",
-"advancement.make_a_hammer.description": "Створіть молоток з палки, мотузки та двох кругляків",
+"advancement.get_a_cobblestone.title": "Кам’яна ера",
+"advancement.get_a_cobblestone.description": "Створіть кругляк за допомоги камінців",
+
+"advancement.make_a_cobblestone_hammer.title": "Давайте будувати дім",
+"advancement.make_a_cobblestone_hammer.description": "Створіть кам’яний молоток з палки, мотузки та двох кругляків",
 
 "advancement.make_a_crafting_table.title": "Рабочий стіл",
-"advancement.make_a_crafting_table.description": "Створіть верстак за допомоги молотка, дерев’яної колоди, кремню та сітки з трав’яного волокна",
+"advancement.make_a_crafting_table.description": "Створіть та поставте верстак",
 
 "advancement.get_a_clay_ball.title": "Глиняний майстер",
 "advancement.get_a_clay_ball.description": "Отримайте глину за допомогою лопати",
@@ -87,13 +90,19 @@
 "advancement.make_a_firestriker.description": "Створіть кресало з деревного вугілля, кремню та двох гілок",
 
 "advancement.make_a_furnace.title": "Гаряча штучка",
-"advancement.make_a_furnace.description": "Створіть пічку на верстаку з восьми цеглин і кресала",
+"advancement.make_a_furnace.description": "Створіть та поставте пічку на верстаку з восьми цеглин і кресала",
 
-"advancement.make_a_stone.title": "Зміцнення",
+"advancement.make_a_pot.title": "Горщиковий плантатор",
+"advancement.make_a_pot.description": "Створіть та поставте горщик. У ньому можна зберігати предмети!",
+
+"advancement.make_a_stone.title": "Так задумала природа",
 "advancement.make_a_stone.description": "Виплавте камінь в печі з кругляку",
 
 "advancement.make_a_barrel.title": "Компактне сховище",
-"advancement.make_a_barrel.description": "Створіть бочку з досок та дерев’яних плит",
+"advancement.make_a_barrel.description": "Створіть і поставте бочку",
+
+"advancement.barrelful_of_cobblestone.title": "Кам’яна бочка",
+"advancement.barrelful_of_cobblestone.description": "Наберіть 1728 кругляка, помістіть його в бочку, а потім взберіться на неї з почуттям перемоги",
 
 "advancement.stone_goods.title": "Кам’яні принади",
 "advancement.stone_goods.description": "Дивовижний світ каменюк!",
@@ -123,7 +132,7 @@
 "advancement.make_a_stone_slab.description": "Створіть кам’яні плити",
 
 "advancement.make_a_grindstone.title": "Точильна машинка",
-"advancement.make_a_grindstone.description": "Створіть точило з кам’яної плити, досок та палок",
+"advancement.make_a_grindstone.description": "Створіть і поставте точило з кам’яної плити, досок та палок",
 
 "advancement.get_a_bark.title": "Кора",
 "advancement.get_a_bark.description": "Заполучіть кору з дерева за допомоги сокири (ПКМ по колоді дерева)",
@@ -135,34 +144,46 @@
 "advancement.make_a_smooth_stone.description": "Переплавте камінь, щоб отримати гладкий камінь",
 
 "advancement.make_a_blast_furnace.title": "Розтоплене серце",
-"advancement.make_a_blast_furnace.description": "Зміцніть пічку, щоб отримати доступ до плавки нових матеріалів",
+"advancement.make_a_blast_furnace.description": "Зміцніть пічку й поставте її, щоб отримати доступ до плавки нових матеріалів",
 
 "advancement.get_an_iron_lump.title": "Кусок залізної руди",
 "advancement.get_an_iron_lump.description": "Отримайте кусок залізної руди, добувши залізну руду",
 
-"advancement.get_an_iron_nugget.title": "Ей, так це не курині крильця?",
-"advancement.get_an_iron_nugget.description": "Отримайте залізний самородок, переплавивши кусок залізної руди",
+"advancement.get_a_poor_iron_nugget.title": "Ей, так це не курині крильця?",
+"advancement.get_a_poor_iron_nugget.description": "Отримайте бідний залізний самородок, переплавивши кусок залізної руди в плавильні",
 
-"advancement.make_an_iron_ingot.title": "Коваль",
-"advancement.make_an_iron_ingot.description": "Зберіть злиток з залізних самородків",
+"advancement.make_a_poor_iron_ingot.title": "Коваль",
+"advancement.make_a_poor_iron_ingot.description": "Зберіть бідний злиток з бідних залізних самородків",
 
 "advancement.make_a_bucket.title": "Відро",
 "advancement.make_a_bucket.description": "Створіть залізне відро з залізних злитків",
 
 "advancement.make_a_chest.title": "Стаціонарне сховище",
-"advancement.make_a_chest.description": "Створіть сундук з 8 досок та залізного злитка",
+"advancement.make_a_chest.description": "Створіть і поставте сундук з 8 досок та залізного злитка",
+
+"advancement.get_a_sandstone.title": "Піщаний камінь",
+"advancement.get_a_sandstone.description": "Роздобудьте пісковик",
+
+"advancement.make_a_sandstone_hammer.title": "Пісочна сила!",
+"advancement.make_a_sandstone_hammer.description": "Створіть пісковиковий молоток",
+
+"advancement.make_a_red_sandstone_hammer.title": "Червоний буде кращим",
+"advancement.make_a_red_sandstone_hammer.description": "Насправді ні, але виглядає круто! Ах, ну і створіть червонопісковиковий молоток.",
+
+"advancement.make_iron_shears.title": "Щасливого дня стрижки",
+"advancement.make_iron_shears.description": "Створіть залізні ножиці",
 
 "advancement.watering.title": "Водяні справи",
 "advancement.watering.description": "Річки сліз, калюжі мрій",
 
 "advancement.first_drink.title": "Спрага не дрімає",
-"advancement.first_drink.description": "Випийте трішки води (Shift + ПКМ/ЛКМ по джерелу води)",
+"advancement.first_drink.description": "Випийте трішки води (ЛКМ пустою рукою по джерелу води під час повзання (подвійний Shift))",
 
 "advancement.sugar_sugar.title": "Цукор, цукор",
 "advancement.sugar_sugar.description": "Зберіть цукрову тростину біля водойми",
 
 "advancement.get_an_ink_sac.title": "Вони сповнені чорнил",
-"advancement.get_an_ink_sac.description": "Добудьте чорнильні мішки, полюючи на спрутів",
+"advancement.get_an_ink_sac.description": "Роздобудьте чорнильні мішки, полюючи на спрутів",
 
 "advancement.get_a_water_bucket.title": "Відро води",
 "advancement.get_a_water_bucket.description": "Наберіть воду в відро",
@@ -186,5 +207,41 @@
 "advancement.make_a_charcoal_filter.description": "Створіть вугільний фільтр з деревного вугілля та паперу",
 
 "advancement.purified_water.title": "Ковток смачної водиці",
-"advancement.purified_water.description": "Очистіть воду у флязі за допомогою фільтра"
+"advancement.purified_water.description": "Очистіть воду у флязі за допомогою фільтра",
+
+"advancement.get_leaves.title": "Обрізання верхів",
+"advancement.get_leaves.description": "Заполучіть листву ножицями",
+
+"advancement.get_a_dead_bush.title": "Ура! Мертвий кущ!",
+"advancement.get_a_dead_bush.description": "Заполучіть мертвий кущ і обрадуйтесь цій події",
+
+"advancement.make_a_saddle.title": "Сідло",
+"advancement.make_a_saddle.description": "Створіть його!",
+
+"advancement.pathways.title": "Допомога заблукавшим",
+"advancement.pathways.description": "Використайте лопату для створення стежок",
+
+"advancement.rock_collection.title": "Колекція каменів",
+"advancement.rock_collection.description": "Створіть кожен з типів каменю",
+
+"advancement.get_a_tin_cluster.title": "Скупчення олова",
+"advancement.get_a_tin_cluster.description": "Заполучіть уламок олова. Часто знаходиться в жилах андезиту и діориту.",
+
+"advancement.get_a_copper_cluster.title": "Скупчення міді",
+"advancement.get_a_copper_cluster.description": "Заполучіть уламок міді. Часто знаходиться в жилах граніту.",
+
+"advancement.get_a_tin_bucket.title": "Відро розтопленого олова",
+"advancement.get_a_tin_bucket.description": "Перетворіть дев’ять скупчень олова в рідину, використовуючи плавильню",
+
+"advancement.get_a_copper_bucket.title": "Відро розтопленої міді",
+"advancement.get_a_copper_bucket.description": "Перетворіть дев’ять скупчень міді в рідину, використовуючи плавильню",
+
+"advancement.make_leather_gloves.title": "Мерзлі рученьки",
+"advancement.make_leather_gloves.description": "Створіть пару шкіряних перчаток",
+
+"advancement.make_a_stone_tool.title": "Кам’яна ера",
+"advancement.make_a_stone_tool.description": "Створіть кам’яний інструмент з палок, камню та нитки",
+
+"advancement.get_a_lava_bucket.title": "Зламана логіка",
+"advancement.get_a_lava_bucket.description": "Заповніть залізне відро лавою. Все в порядку, лише не забудьте надіти перчатки!"
 }

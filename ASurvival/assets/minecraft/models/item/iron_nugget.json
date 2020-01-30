@@ -36,7 +36,7 @@
 		{ "predicate": { "custom_model_data": 10000029 }, "model": "asurvival:item/ice_heart" },
 		{ "predicate": { "custom_model_data": 10000030 }, "model": "asurvival:item/grass_seeds" },
 		{ "predicate": { "custom_model_data": 10000031 }, "model": "asurvival:item/poison" },
-		{ "predicate": { "custom_model_data": 10000032 }, "model": "asurvival:item/gloves/leather_gloves" },
+		
 		{ "predicate": { "custom_model_data": 10000033 }, "model": "asurvival:item/gloves/chainmail_gloves" },
 		{ "predicate": { "custom_model_data": 10000034 }, "model": "asurvival:item/gloves/iron_gloves" },
 		{ "predicate": { "custom_model_data": 10000035 }, "model": "asurvival:item/gloves/diamond_gloves" },
@@ -51,7 +51,7 @@
 		{ "predicate": { "custom_model_data": 10000044 }, "model": "asurvival:item/grandpas_walking_stick" },
 		{ "predicate": { "custom_model_data": 10000045 }, "model": "asurvival:item/charcoal_filter" },
 		{ "predicate": { "custom_model_data": 10000046 }, "model": "asurvival:item/ice_cube" },
-		{ "predicate": { "custom_model_data": 10000047 }, "model": "asurvival:item/bee" },
+		
 		{ "predicate": { "custom_model_data": 10000048 }, "model": "asurvival:item/thermometer" },
 		{ "predicate": { "custom_model_data": 10000049 }, "model": "asurvival:item/ruby" },
 		{ "predicate": { "custom_model_data": 10000050 }, "model": "asurvival:item/king_slime" },
@@ -74,6 +74,25 @@
 		{ "predicate": { "custom_model_data": 10000067 }, "model": "asurvival:item/tanned_hide" },
 		{ "predicate": { "custom_model_data": 10000068 }, "model": "asurvival:item/rack" },
 		{ "predicate": { "custom_model_data": 10000069 }, "model": "asurvival:item/ground_resin" },
-		{ "predicate": { "custom_model_data": 10000070 }, "model": "asurvival:item/salt" }
+		{ "predicate": { "custom_model_data": 10000070 }, "model": "asurvival:item/salt" },
+		{ "predicate": { "custom_model_data": 10000071 }, "model": "asurvival:item/twine" },
+		{ "predicate": { "custom_model_data": 10000072 }, "model": "asurvival:item/ash" },
+		{ "predicate": { "custom_model_data": 10000073 }, "model": "asurvival:item/poor_iron_nugget" },
+		{ "predicate": { "custom_model_data": 10000074 }, "model": "asurvival:item/poor_iron_ingot" },
+		{ "predicate": { "custom_model_data": 10000075 }, "model": "asurvival:item/rough_stick" },
+		{ "predicate": { "custom_model_data": 10000076 }, "model": "asurvival:block/cassiterite_ore" },
+		{ "predicate": { "custom_model_data": 10000077 }, "model": "asurvival:item/copper_cluster" },
+		{ "predicate": { "custom_model_data": 10000078 }, "model": "asurvival:item/copper_ingot" },
+		{ "predicate": { "custom_model_data": 10000079 }, "model": "asurvival:item/tin_cluster" },
+		{ "predicate": { "custom_model_data": 10000080 }, "model": "asurvival:item/tin_ingot" },
+		{ "predicate": { "custom_model_data": 10000081 }, "model": "asurvival:item/bronze_ingot" },
+		{ "predicate": { "custom_model_data": 10000082 }, "model": "asurvival:item/rock/andesite_rock" },
+		{ "predicate": { "custom_model_data": 10000083 }, "model": "asurvival:item/rock/diorite_rock" },
+		{ "predicate": { "custom_model_data": 10000084 }, "model": "asurvival:item/rock/end_stone_rock" },
+		{ "predicate": { "custom_model_data": 10000085 }, "model": "asurvival:item/rock/granite_rock" },
+		{ "predicate": { "custom_model_data": 10000086 }, "model": "asurvival:item/rock/netherrack_rock" },
+		{ "predicate": { "custom_model_data": 10000087 }, "model": "asurvival:item/rock/red_sandstone_rock" },
+		{ "predicate": { "custom_model_data": 10000088 }, "model": "asurvival:item/rock/sandstone_rock" },
+		{ "predicate": { "custom_model_data": 10000089 }, "model": "asurvival:item/rock/stone_rock" }
 	]
 }

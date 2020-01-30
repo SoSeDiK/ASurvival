@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "asurvival:item/stick/acacia_stick"
-    }
-}
+{"parent":"item/handheld","textures":{"layer0":"asurvival:item/stick/acacia_stick"}}

@@ -15,6 +15,7 @@
 		{ "predicate": { "custom_model_data": 10000008 }, "model": "asurvival:item/hide/mule_hide" },
 		{ "predicate": { "custom_model_data": 10000009 }, "model": "asurvival:item/hide/ocelot_hide" },
 		{ "predicate": { "custom_model_data": 10000010 }, "model": "asurvival:item/hide/sheep_hide" },
-		{ "predicate": { "custom_model_data": 10000011 }, "model": "asurvival:item/hide/wolf_hide" }
+		{ "predicate": { "custom_model_data": 10000011 }, "model": "asurvival:item/hide/wolf_hide" },
+		{ "predicate": { "custom_model_data": 10000012 }, "model": "asurvival:item/hide/polar_bear_hide" }
 	]
 }

@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "asurvival:font/gui/lava_1"
+    },
+	"display": {
+		"gui": {"rotation": [ 0, 0, 0 ], "translation": [ -1, 25, 0 ], "scale": [ 4, 4, 4 ]}
+	}
+}

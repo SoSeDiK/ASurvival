@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "asurvival:item/branch/dead_branch"
-    }
-}
+{"parent":"item/handheld","textures":{"layer0":"asurvival:item/branch/dead_branch"}}

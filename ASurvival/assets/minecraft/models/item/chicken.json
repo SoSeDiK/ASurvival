@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/food/bat_meat" },
-		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/food/bat_wing" }
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/food/bat_wing" },
+		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/food/human_meat" }
 	]
 }

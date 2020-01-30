@@ -1,6 +1,6 @@
 {
 "advancement.root.title": "Let's get into it",
-"advancement.root.description": "The brave new world",
+"advancement.root.description": "The brave new world (make sure to use the recipe book!)",
 
 "advancement.final.title": "That's Only The Beginning",
 "advancement.final.description": "There's nothing impossible!",
@@ -42,7 +42,7 @@
 "advancement.meet_the_flintstones.description": "Obtain a stack of flint (you can use a grass mesh on a gravel by right clicking)",
 
 "advancement.make_a_flint.title": "Treasure hunt",
-"advancement.make_a_flint.description": "Get something by sifting Gravel through Mesh (right clicking on gravel will get toy a flint)",
+"advancement.make_a_flint.description": "Get something special by sifting Gravel through Mesh (right clicking on gravel will get toy a flint)",
 
 "advancement.make_a_flint_shovel.title": "Mining gravel",
 "advancement.make_a_flint_shovel.description": "Make a flint shovel using a stick, a flaked flint and a twine",
@@ -54,22 +54,25 @@
 "advancement.make_a_chopping_block.description": "Combine a log with an axe to make a chopping block",
 
 "advancement.make_planks.title": "Getting Wood",
-"advancement.make_planks.description": "Cut a log on the chopping block to get some planks (by left clicking)",
+"advancement.make_planks.description": "Cut a log on the chopping block to get some planks",
 
 "advancement.make_more_sticks.title": "Wooden Goods",
 "advancement.make_more_sticks.description": "Make perfect sticks by chopping planks in the chopping block",
 
 "advancement.make_a_flint_pickaxe.title": "Mining",
-"advancement.make_a_flint_pickaxe.description": "Make a flint pickaxe using a stick, a wooden plank and two flints",
+"advancement.make_a_flint_pickaxe.description": "Make a flint pickaxe",
 
-"advancement.get_a_cobblestone.title": "Cobble",
-"advancement.get_a_cobblestone.description": "Get some cobblestone with your pickaxe",
+"advancement.get_a_rock.title": "Let it Rock",
+"advancement.get_a_rock.description": "Get some rocks with your pickaxe",
 
-"advancement.make_a_hammer.title": "Let's build a house",
-"advancement.make_a_hammer.description": "Make a hammer with a stick, a twine and two cobblestones",
+"advancement.get_a_cobblestone.title": "Stone Age",
+"advancement.get_a_cobblestone.description": "Create a cobblestone using rocks",
+
+"advancement.make_a_cobblestone_hammer.title": "Let's build a house",
+"advancement.make_a_cobblestone_hammer.description": "Make a cobblestone hammer with a stick, a twine and two cobblestones",
 
 "advancement.make_a_crafting_table.title": "Benchmarking",
-"advancement.make_a_crafting_table.description": "Construct a crafting bench with a hammer, a log, a flint and a mesh",
+"advancement.make_a_crafting_table.description": "Construct and place a crafting table",
 
 "advancement.get_a_clay_ball.title": "Just a Clay",
 "advancement.get_a_clay_ball.description": "Get a clay ball with a shovel",
@@ -87,13 +90,19 @@
 "advancement.make_a_firestriker.description": "Make a firestriker using a charcoal, a flint and two branches",
 
 "advancement.make_a_furnace.title": "Hot stuff",
-"advancement.make_a_furnace.description": "Create a furnace on crafting table using eight bricks and a firestriker",
+"advancement.make_a_furnace.description": "Create and place a furnace on crafting table using eight bricks and a firestriker",
 
-"advancement.make_a_stone.title": "Hardening",
-"advancement.make_a_stone.description": "Burn a cobblestone in furnace to get a stone",
+"advancement.make_a_pot.title": "Pot Planter",
+"advancement.make_a_pot.description": "Craft and place a flower pot. You can store items in it!",
+
+"advancement.make_a_stone.title": "Its original form",
+"advancement.make_a_stone.description": "Burn a cobblestone in the furnace to get a stone",
 
 "advancement.make_a_barrel.title": "Compact storage solution",
-"advancement.make_a_barrel.description": "Create a barrel using wooden planks and sticks",
+"advancement.make_a_barrel.description": "Create and place a barrel",
+
+"advancement.barrelful_of_cobblestone.title": "Barrelful of Cobblestone",
+"advancement.barrelful_of_cobblestone.description": "Mine 1728 cobblestone, place it in a barrel, then stand on it in victory",
 
 "advancement.stone_goods.title": "Stone goods",
 "advancement.stone_goods.description": "This wonderful world of Stone!",
@@ -123,7 +132,7 @@
 "advancement.make_a_stone_slab.description": "Make a stone slab",
 
 "advancement.make_a_grindstone.title": "Grindstone",
-"advancement.make_a_grindstone.description": "Create a grindstone using a smooth stone, planks and sticks",
+"advancement.make_a_grindstone.description": "Create and place a grindstone using a smooth stone, planks and sticks",
 
 "advancement.get_a_bark.title": "Tree Bark",
 "advancement.get_a_bark.description": "Get some bark from a tree using an axe (right clicking on logs)",
@@ -135,28 +144,40 @@
 "advancement.make_a_smooth_stone.description": "Smelt normal stone further into smooth stone",
 
 "advancement.make_a_blast_furnace.title": "Blast it!",
-"advancement.make_a_blast_furnace.description": "Upgrade your furnace to a blast furnace for smelting more materials",
+"advancement.make_a_blast_furnace.description": "Upgrade your furnace to a blast furnace and place it for smelting more materials",
 
 "advancement.get_an_iron_lump.title": "Iron Lump",
 "advancement.get_an_iron_lump.description": "Obtain some iron lumps by breaking the iron ore",
 
-"advancement.get_an_iron_nugget.title": "Not Chicken McNuggets?",
-"advancement.get_an_iron_nugget.description": "Get an iron nugget by smelting iron lumps",
+"advancement.get_a_poor_iron_nugget.title": "Not Chicken McNuggets?",
+"advancement.get_a_poor_iron_nugget.description": "Get a poor iron nugget by smelting iron lumps using blast furnace",
 
-"advancement.make_an_iron_ingot.title": "Acquire Hardware",
-"advancement.make_an_iron_ingot.description": "Create an iron ingot with iron nuggets",
+"advancement.make_a_poor_iron_ingot.title": "Acquire Hardware",
+"advancement.make_a_poor_iron_ingot.description": "Create a poor iron ingot with poor iron nuggets",
 
 "advancement.make_a_bucket.title": "Iron Bucket",
-"advancement.make_a_bucket.description": "Create a bucket using iron ingots",
+"advancement.make_a_bucket.description": "Create a bucket using poor iron ingots",
 
 "advancement.make_a_chest.title": "Stationary Storage",
-"advancement.make_a_chest.description": "Craft and place down a chest using planks and an iron ingot for storing your items",
+"advancement.make_a_chest.description": "Craft and place down a chest using planks and a poor iron ingot for storing your items",
+
+"advancement.get_a_sandstone.title": "Sandy Stone",
+"advancement.get_a_sandstone.description": "Obtain a sandstone",
+
+"advancement.make_a_sandstone_hammer.title": "Sandstone power!",
+"advancement.make_a_sandstone_hammer.description": "Create a sandstone hammer",
+
+"advancement.make_a_red_sandstone_hammer.title": "Red makes it better",
+"advancement.make_a_red_sandstone_hammer.description": "Not really, but it looks cool! Also, make a red sandstone hammer.",
+
+"advancement.make_iron_shears.title": "Have a Shearful Day",
+"advancement.make_iron_shears.description": "Craft iron shears",
 
 "advancement.watering.title": "Water business",
 "advancement.watering.description": "Rivers of tears, puddles of dreams",
 
 "advancement.first_drink.title": "Thirst never sleeps",
-"advancement.first_drink.description": "Drink some water (Shift + right/left click on a water source)",
+"advancement.first_drink.description": "Drink some water (left click with a bare hand on a water source while laying (double Shift))",
 
 "advancement.sugar_sugar.title": "Sugar, sugar",
 "advancement.sugar_sugar.description": "Harvest some sugar cane from a river or an ocean",
@@ -186,5 +207,41 @@
 "advancement.make_a_charcoal_filter.description": "Create a charcoal filter using charcoals and a paper",
 
 "advancement.purified_water.title": "A sip of delicious water",
-"advancement.purified_water.description": "Clean the water in your canteen with a filter"
+"advancement.purified_water.description": "Clean the water in your canteen with a filter",
+
+"advancement.get_leaves.title": "Trimming the Treetops",
+"advancement.get_leaves.description": "Use shears to obtain leaf blocks",
+
+"advancement.get_a_dead_bush.title": "Yay! Deadbush!",
+"advancement.get_a_dead_bush.description": "Get a deadbush and become happy",
+
+"advancement.make_a_saddle.title": "Saddle",
+"advancement.make_a_saddle.description": "Make it!",
+
+"advancement.pathways.title": "Pathways",
+"advancement.pathways.description": "Use a shovel to create grass paths",
+
+"advancement.rock_collection.title": "Rock Collection",
+"advancement.rock_collection.description": "Create every type of primitive stone",
+
+"advancement.get_a_tin_cluster.title": "Tin Cluster",
+"advancement.get_a_tin_cluster.description": "Get a tin cluster. Usually found in andesite an diorite.",
+
+"advancement.get_a_copper_cluster.title": "Copper Cluster",
+"advancement.get_a_copper_cluster.description": "Get a copper cluster. Usually found in granite.",
+
+"advancement.get_a_tin_bucket.title": "Molten Tin Bucket",
+"advancement.get_a_tin_bucket.description": "Convert nine tin clusters into fluid using a blast furnace",
+
+"advancement.get_a_copper_bucket.title": "Molten Copper Bucket",
+"advancement.get_a_copper_bucket.description": "Convert nine copper clusters into fluid using a blast furnace",
+
+"advancement.make_leather_gloves.title": "Frozen Hands",
+"advancement.make_leather_gloves.description": "Create a pair of leather gloves",
+
+"advancement.make_a_stone_tool.title": "Stone Age",
+"advancement.make_a_stone_tool.description": "Create stone instrument on crafting table using sticks, stones and string",
+
+"advancement.get_a_lava_bucket.title": "Broken Logic",
+"advancement.get_a_lava_bucket.description": "Fill your iron bucket with lava. It's fine, just don't forget to wear some gloves!"
 }

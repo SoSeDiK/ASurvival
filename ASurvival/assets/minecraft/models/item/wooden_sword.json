@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_sword"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/sandstone_hammer" },
+		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/red_sandstone_hammer" }
+	]
+}

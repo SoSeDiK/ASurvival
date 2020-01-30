@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "asurvival:item/infernal_bone_meal"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"asurvival:item/infernal_bone_meal"}}

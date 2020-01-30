@@ -1,6 +1,6 @@
 {
 "advancement.root.title": "Это лишь начало",
-"advancement.root.description": "Совершенно новый мир",
+"advancement.root.description": "Совершенно новый мир (не забывайте заглядывать в книгу рецептов!)",
 
 "advancement.final.title": "Начало нелёгкого пути",
 "advancement.final.description": "Нет ничего невозможного!",
@@ -27,7 +27,7 @@
 "advancement.get_a_flint.description": "Добудьте кремень из гравия",
 
 "advancement.get_a_flaked_flint.title": "Что-то откололось",
-"advancement.get_a_flaked_flint.description": "Создайте осколок кремня, постучав (клики ЛКМ) им по любому виду камня",
+"advancement.get_a_flaked_flint.description": "Создайте осколок кремня, постучав им по любому виду камня",
 
 "advancement.make_a_flint_axe.title": "Нужно рубить деревья",
 "advancement.make_a_flint_axe.description": "Создайте кремнёвый топор из палки, бечёвки и двух кремнёвых осколков",
@@ -42,7 +42,7 @@
 "advancement.meet_the_flintstones.description": "Добудьте стак кремня (можно использовать сетку на гравии при помощи ПКМ)",
 
 "advancement.make_a_flint.title": "В поисках сокровищ",
-"advancement.make_a_flint.description": "Получите что-нибудь, просыпав гравий через сетку",
+"advancement.make_a_flint.description": "Получите что-нибудь особенное, просыпав гравий через сетку",
 
 "advancement.make_a_flint_shovel.title": "Добываем гравий",
 "advancement.make_a_flint_shovel.description": "Создайте кремнёвую лопату из палки, осколка кремня и бечёвки",
@@ -54,22 +54,25 @@
 "advancement.make_a_chopping_block.description": "Совместите бревно с топором, чтобы получить разделочный пенёк",
 
 "advancement.make_planks.title": "Деревянный как кирпич",
-"advancement.make_planks.description": "Разрубите дерево топором на разделочном пеньке (клики ЛКМ), чтобы получить доски",
+"advancement.make_planks.description": "Разрубите дерево топором на разделочном пеньке, чтобы получить доски",
 
 "advancement.make_more_sticks.title": "Древесные изделия",
 "advancement.make_more_sticks.description": "Заполучите идеальные палки, разрубив доски на разделочном пеньке",
 
 "advancement.make_a_flint_pickaxe.title": "Начинаем майнить",
-"advancement.make_a_flint_pickaxe.description": "Создайте кремнёвую кирку из палки, доски и двух кремня",
+"advancement.make_a_flint_pickaxe.description": "Создайте кремнёвую кирку",
 
-"advancement.get_a_cobblestone.title": "Камушки",
-"advancement.get_a_cobblestone.description": "Добудьте немного булыжника при помощи кирки",
+"advancement.get_a_rock.title": "Камнепад",
+"advancement.get_a_rock.description": "Добудьте камушки Вашей киркой",
 
-"advancement.make_a_hammer.title": "Начинаем строить дом",
-"advancement.make_a_hammer.description": "Создайте молоток из палки, бечёвки и двух булыжника",
+"advancement.get_a_cobblestone.title": "Каменный век",
+"advancement.get_a_cobblestone.description": "Создайте булыжник из камушков",
+
+"advancement.make_a_cobblestone_hammer.title": "Начинаем строить дом",
+"advancement.make_a_cobblestone_hammer.description": "Создайте каменный молоток из палки, бечёвки и двух булыжника",
 
 "advancement.make_a_crafting_table.title": "Рабочий стол",
-"advancement.make_a_crafting_table.description": "Создайте верстак при помощи молотка, бревна, кремня и сетки из травяного волокна",
+"advancement.make_a_crafting_table.description": "Создайте и установите верстак",
 
 "advancement.get_a_clay_ball.title": "Гончарное дело",
 "advancement.get_a_clay_ball.description": "Добудьте глину при помощи лопаты",
@@ -87,13 +90,19 @@
 "advancement.make_a_firestriker.description": "Создайте огниво из древесного угля, кремня и двух веток",
 
 "advancement.make_a_furnace.title": "Горячая штучка",
-"advancement.make_a_furnace.description": "Создайте печку на верстаке из восьми кирпичей и огнива",
+"advancement.make_a_furnace.description": "Создайте и установите печку на верстаке из восьми кирпичей и огнива",
 
-"advancement.make_a_stone.title": "Укрепление",
+"advancement.make_a_pot.title": "Горшковый плантатор",
+"advancement.make_a_pot.description": "Создайте и поставьте горшок. В нём можно хранить предметы!",
+
+"advancement.make_a_stone.title": "Так задумала природа",
 "advancement.make_a_stone.description": "Выплавите камень в печи из булыжника",
 
 "advancement.make_a_barrel.title": "Компактное хранилище",
-"advancement.make_a_barrel.description": "Создайте бочку из досок и деревянных плит",
+"advancement.make_a_barrel.description": "Создайте и поставьте бочку",
+
+"advancement.barrelful_of_cobblestone.title": "Каменная бочка",
+"advancement.barrelful_of_cobblestone.description": "Добудьте 1728 булыжника, поместите его в бочку, а затем взберитесь на неё с чувством победы",
 
 "advancement.stone_goods.title": "Каменные прелести",
 "advancement.stone_goods.description": "Удивительный мир камня!",
@@ -123,7 +132,7 @@
 "advancement.make_a_stone_slab.description": "Создайте каменные плиты",
 
 "advancement.make_a_grindstone.title": "Точильная станция",
-"advancement.make_a_grindstone.description": "Создайте точильный камень из каменной плиты, досок и палок",
+"advancement.make_a_grindstone.description": "Создайте и поставьте точильный камень из каменной плиты, досок и палок",
 
 "advancement.get_a_bark.title": "Кора",
 "advancement.get_a_bark.description": "Добудьте немного коры из дерева при помощи топора (ПКМ по бревну)",
@@ -135,28 +144,40 @@
 "advancement.make_a_smooth_stone.description": "Переплавьте камень, чтобы заполучить гладкий камень",
 
 "advancement.make_a_blast_furnace.title": "Растопленное сердце",
-"advancement.make_a_blast_furnace.description": "Укрепите печь, чтобы заполучить доступ к плавке новых материалов",
+"advancement.make_a_blast_furnace.description": "Укрепите печь, а затем поставьте её, чтобы заполучить доступ к плавке новых материалов",
 
 "advancement.get_an_iron_lump.title": "Кусок железной руды",
 "advancement.get_an_iron_lump.description": "Заполучите кусок железной руды, разрушив железную руду",
 
-"advancement.get_an_iron_nugget.title": "Хм, это не куриные крылышки?",
-"advancement.get_an_iron_nugget.description": "Заполучите железный самородок, переплавив кусок железной руды",
+"advancement.get_a_poor_iron_nugget.title": "Хм, это не куриные крылышки?",
+"advancement.get_a_poor_iron_nugget.description": "Заполучите бедный железный самородок, переплавив кусок железной руды в плавильне",
 
-"advancement.make_an_iron_ingot.title": "Куй железо, пока горячо!",
-"advancement.make_an_iron_ingot.description": "Соберите слиток из железных самородков",
+"advancement.make_a_poor_iron_ingot.title": "Куй железо, пока горячо!",
+"advancement.make_a_poor_iron_ingot.description": "Соберите бедный слиток из бедных железных самородков",
 
 "advancement.make_a_bucket.title": "Железное ведро",
 "advancement.make_a_bucket.description": "Создайте железное ведро из железных слитков",
 
 "advancement.make_a_chest.title": "Стационарное хранилище",
-"advancement.make_a_chest.description": "Создайте сундук из 8 досок и железного слитка",
+"advancement.make_a_chest.description": "Создайте и поставьте сундук из 8 досок и железного слитка",
+
+"advancement.get_a_sandstone.title": "Песчаный камень",
+"advancement.get_a_sandstone.description": "Добудьте песчаник",
+
+"advancement.make_a_sandstone_hammer.title": "Песчаная сила!",
+"advancement.make_a_sandstone_hammer.description": "Создайте песчаниковый молоток",
+
+"advancement.make_a_red_sandstone_hammer.title": "Красный будет получше",
+"advancement.make_a_red_sandstone_hammer.description": "На самом деле нет, но выглядит круто! Ах, ну и создайте краснопесчаниковый молоток.",
+
+"advancement.make_iron_shears.title": "Счастливого дня стрижки",
+"advancement.make_iron_shears.description": "Создайте железные ножницы",
 
 "advancement.watering.title": "Водное дело",
 "advancement.watering.description": "Реки слёз, лужи грёз",
 
 "advancement.first_drink.title": "Жажда не дремлет",
-"advancement.first_drink.description": "Выпейте немного воды (Shift + ПКМ/ЛКМ по источнику воды)",
+"advancement.first_drink.description": "Выпейте немного воды (ЛКМ пустой рукой по источнику воды во время ползания (двойной Shift))",
 
 "advancement.sugar_sugar.title": "Сахар, сахар",
 "advancement.sugar_sugar.description": "Соберите немного тростника около водоёма",
@@ -186,5 +207,41 @@
 "advancement.make_a_charcoal_filter.description": "Создайте угольный фильтр из древесного угля и бумаги",
 
 "advancement.purified_water.title": "Глоток вкусной водицы",
-"advancement.purified_water.description": "Очистите воду во фляге при помощи фильтра"
+"advancement.purified_water.description": "Очистите воду во фляге при помощи фильтра",
+
+"advancement.get_leaves.title": "Обрезание верхушек",
+"advancement.get_leaves.description": "Добудьте листву ножницами",
+
+"advancement.get_a_dead_bush.title": "Ура! Мёртвый куст!",
+"advancement.get_a_dead_bush.description": "Добудьте мёртвый куст и возрадуйтесь этому",
+
+"advancement.make_a_saddle.title": "Седло",
+"advancement.make_a_saddle.description": "Создайте его!",
+
+"advancement.pathways.title": "Помощь потерявшимся",
+"advancement.pathways.description": "Используйте лопату для создания тропинок",
+
+"advancement.rock_collection.title": "Коллекция камушков",
+"advancement.rock_collection.description": "Создайте каждый из видов камня",
+
+"advancement.get_a_tin_cluster.title": "Скопление олова",
+"advancement.get_a_tin_cluster.description": "Добудьте осколок олова. Часто находится в жилах андезита и диорита.",
+
+"advancement.get_a_copper_cluster.title": "Скопление меди",
+"advancement.get_a_copper_cluster.description": "Добудьте осколок меди. Часто находится в жилах гранита.",
+
+"advancement.get_a_tin_bucket.title": "Ведро жидкого олова",
+"advancement.get_a_tin_bucket.description": "Перетворите девять скоплений олова в жидкость, используя плавильню",
+
+"advancement.get_a_copper_bucket.title": "Ведро жидкой меди",
+"advancement.get_a_copper_bucket.description": "Перетворите девять скоплений меди в жидкость, используя плавильню",
+
+"advancement.make_leather_gloves.title": "Мёрзлые ручки",
+"advancement.make_leather_gloves.description": "Создайте пару кожаных перчаток",
+
+"advancement.make_a_stone_tool.title": "Каменная эра",
+"advancement.make_a_stone_tool.description": "Создайте каменный инструмент на верстаке из палок, камня и нити",
+
+"advancement.get_a_lava_bucket.title": "Сломанная логика",
+"advancement.get_a_lava_bucket.description": "Заполните железное ведро лавой. Всё хорошо, только не забудьте надеть перчатки!"
 }

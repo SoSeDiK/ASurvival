@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "asurvival:item/food/grilled_red_mushroom"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"asurvival:item/food/grilled_red_mushroom"}}

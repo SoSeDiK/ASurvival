@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "asurvival:item/food/grilled_blue_orchid"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"asurvival:item/food/grilled_blue_orchid"}}

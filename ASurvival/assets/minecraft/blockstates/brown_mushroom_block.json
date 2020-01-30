@@ -13,7 +13,7 @@
 		{"when":{"down":true,"east":true,"north":true,"south":true,"up":true,"west":true},"apply":{"model":"block/mushroom/brown_mushroom_block_survival_true"}},
 
 		{"when":{"down":false,"east":false,"north":false,"south":false,"up":false,"west":true},"apply":{"model":"asurvival:block/enhanced_crafting_table"}},
-		{"when":{"down":false,"east":false,"north":false,"south":true,"up":false,"west":false},"apply":{"model":"asurvival:block/ancient_altar"}},
+		{"when":{"down":false,"east":false,"north":false,"south":true,"up":false,"west":false},"apply":{"model":"asurvival:block/cassiterite_ore"}},
 		{"when":{"down":false,"east":false,"north":false,"south":true,"up":false,"west":true},"apply":{"model":"asurvival:block/powered_ancient_altar"}},
 		{"when":{"down":false,"east":false,"north":true,"south":false,"up":false,"west":false},"apply":{"model":"asurvival:block/ancient_pedestal"}},
 		{"when":{"down":false,"east":false,"north":true,"south":false,"up":false,"west":true},"apply":{"model":"asurvival:block/teleporter"}}

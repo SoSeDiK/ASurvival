@@ -22,6 +22,9 @@
 		{ "predicate": { "custom_model_data": 10000015 }, "model": "asurvival:item/food/grilled_lilac" },
 		{ "predicate": { "custom_model_data": 10000016 }, "model": "asurvival:item/food/grilled_peony" },
 		{ "predicate": { "custom_model_data": 10000017 }, "model": "asurvival:item/food/grilled_rose_bush" },
-		{ "predicate": { "custom_model_data": 10000018 }, "model": "asurvival:item/food/grilled_sunflower" }
+		{ "predicate": { "custom_model_data": 10000018 }, "model": "asurvival:item/food/grilled_sunflower" },
+		{ "predicate": { "custom_model_data": 10000019 }, "model": "asurvival:item/food/brain" },
+		{ "predicate": { "custom_model_data": 10000020 }, "model": "asurvival:item/food/ghastmallow" },
+		{ "predicate": { "custom_model_data": 10000021 }, "model": "asurvival:item/food/ghastmallow_on_a_stick" }
 	]
 }

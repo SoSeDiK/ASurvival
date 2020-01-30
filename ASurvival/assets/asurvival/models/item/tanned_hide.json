@@ -1,6 +1,1 @@
-{
-    "parent": "item/leather",
-    "textures": {
-        "layer0": "asurvival:item/tanned_hide"
-    }
-}
+{"parent":"item/leather","textures":{"layer0":"asurvival:item/tanned_hide"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "asurvival:item/glass_shard/blue_glass_shard"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"asurvival:item/glass_shard/blue_glass_shard"}}

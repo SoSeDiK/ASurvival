@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "asurvival:item/flower_bouquet"
-    }
-}
+{"parent":"item/handheld","textures":{"layer0":"asurvival:item/flower_bouquet"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "asurvival:item/food/grilled_oxeye_daisy"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"asurvival:item/food/grilled_oxeye_daisy"}}

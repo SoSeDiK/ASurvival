@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "asurvival:item/flint_shears"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"asurvival:item/flint_shears"}}
