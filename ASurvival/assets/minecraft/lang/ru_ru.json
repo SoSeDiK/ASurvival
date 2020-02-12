@@ -240,8 +240,20 @@
 "advancement.make_leather_gloves.description": "Создайте пару кожаных перчаток",
 
 "advancement.make_a_stone_tool.title": "Каменная эра",
-"advancement.make_a_stone_tool.description": "Создайте каменный инструмент на верстаке из палок, камня и нити",
+"advancement.make_a_stone_tool.description": "Создайте каменный инструмент на верстаке из палок, камня и бечёвки",
 
-"advancement.get_a_lava_bucket.title": "Сломанная логика",
-"advancement.get_a_lava_bucket.description": "Заполните железное ведро лавой. Всё хорошо, только не забудьте надеть перчатки!"
+"advancement.get_a_lava_bucket.title": "Железная логика",
+"advancement.get_a_lava_bucket.description": "Заполните железное ведро лавой. Всё хорошо, только не забудьте надеть перчатки!",
+
+"advancement.expelliarmus.title": "Экспеллиармус!",
+"advancement.expelliarmus.description": "Ударьте моба хорошей палкой",
+
+"advancement.fossil_fuel.title": "Окаменелое топливо",
+"advancement.fossil_fuel.description": "Уголь! И остатки мёртвых динозавров.",
+
+"advancement.coal_miner.title": "Угледобытчик",
+"advancement.coal_miner.description": "Добудьте стак угля",
+
+"advancement.master_coal_miner.title": "Угольный бизнес",
+"advancement.master_coal_miner.description": "Добудьте достаточно угля и создайте стак угольных блоков"
 }

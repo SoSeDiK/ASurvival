@@ -299,7 +299,7 @@
   "item.inventory_ender_locked.name": " Locked Ender Scroll",
   "item.inventory_equipment.lore": "&r &6&oOpen your backpack",
   "item.inventory_equipment.name": "&cEquipment",
-  "item.inventory_gloves.lore": "&r &7&oNeeded for gaining armor bonus set",
+  "item.inventory_gloves.lore": "&r &7&oUnlock some abilities",
   "item.inventory_gloves.name": " Gloves slot",
   "item.inventory_gloves_locked.lore": "&r &7&oYou should upgrade\n &oyour equipment first",
   "item.inventory_gloves_locked.name": " Locked Gloves slot",

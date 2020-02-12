@@ -240,8 +240,20 @@
 "advancement.make_leather_gloves.description": "Create a pair of leather gloves",
 
 "advancement.make_a_stone_tool.title": "Stone Age",
-"advancement.make_a_stone_tool.description": "Create stone instrument on crafting table using sticks, stones and string",
+"advancement.make_a_stone_tool.description": "Create stone instrument on crafting table using sticks, stones and a twine",
 
-"advancement.get_a_lava_bucket.title": "Broken Logic",
-"advancement.get_a_lava_bucket.description": "Fill your iron bucket with lava. It's fine, just don't forget to wear some gloves!"
+"advancement.get_a_lava_bucket.title": "Iron Logic",
+"advancement.get_a_lava_bucket.description": "Fill your iron bucket with lava. It's fine, just don't forget to wear some gloves!",
+
+"advancement.expelliarmus.title": "Expelliarmus!",
+"advancement.expelliarmus.description": "Hit a mob with your good stick",
+
+"advancement.fossil_fuel.title": "Fossil Fuel",
+"advancement.fossil_fuel.description": "Coal! As in dead dinosaurs!",
+
+"advancement.coal_miner.title": "Coal Miner",
+"advancement.coal_miner.description": "Mine a stack of coal",
+
+"advancement.master_coal_miner.title": "Coal Business",
+"advancement.master_coal_miner.description": "Mine enough coal to make a stack of coal blocks"
 }

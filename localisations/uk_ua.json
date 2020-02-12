@@ -299,7 +299,7 @@
   "item.inventory_ender_locked.name": " Закритий Ендер-сувій",
   "item.inventory_equipment.lore": "&r &6&oВідкрити Ваш рюкзак",
   "item.inventory_equipment.name": "&cСпорядження",
-  "item.inventory_gloves.lore": "&r &7&oНеобхідні для отримання\n &oбонусу повного сету броні",
+  "item.inventory_gloves.lore": "&r &7&oВідкривають нові можливості",
   "item.inventory_gloves.name": " Слот перчаток",
   "item.inventory_gloves_locked.lore": "&r &7&oВи повинні покращити своє\n &oспорядження для початку",
   "item.inventory_gloves_locked.name": " Закритий слот перчаток",

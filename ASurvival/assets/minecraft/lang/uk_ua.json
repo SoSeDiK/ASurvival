@@ -240,8 +240,20 @@
 "advancement.make_leather_gloves.description": "Створіть пару шкіряних перчаток",
 
 "advancement.make_a_stone_tool.title": "Кам’яна ера",
-"advancement.make_a_stone_tool.description": "Створіть кам’яний інструмент з палок, камню та нитки",
+"advancement.make_a_stone_tool.description": "Створіть кам’яний інструмент з палок, камню та трав’яної мотузки",
 
-"advancement.get_a_lava_bucket.title": "Зламана логіка",
-"advancement.get_a_lava_bucket.description": "Заповніть залізне відро лавою. Все в порядку, лише не забудьте надіти перчатки!"
+"advancement.get_a_lava_bucket.title": "Залізка логіка",
+"advancement.get_a_lava_bucket.description": "Заповніть залізне відро лавою. Все в порядку, лише не забудьте надіти перчатки!",
+
+"advancement.expelliarmus.title": "Експеліармус!",
+"advancement.expelliarmus.description": "Вдарте моба доброю палицею",
+
+"advancement.fossil_fuel.title": "Окам’яніле топливо",
+"advancement.fossil_fuel.description": "Вугілля! Та залишки мертвих динозаврів.",
+
+"advancement.coal_miner.title": "Вуглевидобувник",
+"advancement.coal_miner.description": "Заполучіть стак вугілля",
+
+"advancement.master_coal_miner.title": "Вугільний бізнес",
+"advancement.master_coal_miners.description": "Заполучіть достатньо вугілля та створіть стак вугільних блоків"
 }
