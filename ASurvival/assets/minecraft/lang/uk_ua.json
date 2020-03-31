@@ -1,4 +1,6 @@
 {
+"effect.minecraft.mining_fatigue": "Дружелюбність",
+
 "advancement.root.title": "Це лише початок",
 "advancement.root.description": "Кардинально новий світ (не забувайте використовувати книгу рецептів!)",
 
@@ -146,10 +148,10 @@
 "advancement.make_a_blast_furnace.title": "Розтоплене серце",
 "advancement.make_a_blast_furnace.description": "Зміцніть пічку й поставте її, щоб отримати доступ до плавки нових матеріалів",
 
-"advancement.get_an_iron_lump.title": "Кусок залізної руди",
-"advancement.get_an_iron_lump.description": "Отримайте кусок залізної руди, добувши залізну руду",
+"advancement.get_an_iron_lump.title": "Скупчення заліза",
+"advancement.get_an_iron_lump.description": "Отримайте скупчення заліза, добувши залізну руду",
 
-"advancement.get_a_poor_iron_nugget.title": "Ей, так це не курині крильця?",
+"advancement.get_a_poor_iron_nugget.title": "Залізні самородки",
 "advancement.get_a_poor_iron_nugget.description": "Отримайте бідний залізний самородок, переплавивши кусок залізної руди в плавильні",
 
 "advancement.make_a_poor_iron_ingot.title": "Коваль",
@@ -255,5 +257,30 @@
 "advancement.coal_miner.description": "Заполучіть стак вугілля",
 
 "advancement.master_coal_miner.title": "Вугільний бізнес",
-"advancement.master_coal_miners.description": "Заполучіть достатньо вугілля та створіть стак вугільних блоків"
+"advancement.master_coal_miners.description": "Заполучіть достатньо вугілля та створіть стак вугільних блоків",
+
+"advancement.food_paradise.title": "Харчовий рай",
+"advancement.food_paradise.description": "З’їж їх усіх!",
+
+"advancement.green_fool.title": "Зелений олух",
+"advancement.green_fool.description": "Попробуйте заборонений плід",
+
+"advancement.suicide_supper.title": "Убивча вечеря",
+"advancement.suicide_supper.description": "Переживіть поїдання скелезуба! Якось…",
+
+# Статистика
+"advancement.statistics.title": "Різноманітна статистика",
+"advancement.statistics.description": "Якщо числа ростуть, то Вам дійсно весело",
+
+"advancement.deaths_1.title": "Перша смерть",
+"advancement.deaths_1.description": "Жив без страху і помер без страху",
+
+"advancement.deaths_50.title": "Царство Небесне!",
+"advancement.deaths_50.description": "У рай так просто Вас не пустять! 50 смертей в кишені.",
+
+"advancement.deaths_250.title": "Знову, знову… і… знову",
+"advancement.deaths_250.description": "Ви зробили це 250 раз, неймовірно! Можливо вже припинете?",
+
+"advancement.deaths_1000.title": "Тягар вічності",
+"advancement.deaths_1000.description": "Тисяча чортяк! Смерть не має значення!"
 }

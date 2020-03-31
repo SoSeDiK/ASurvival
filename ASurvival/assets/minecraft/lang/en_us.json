@@ -1,4 +1,6 @@
 {
+"effect.minecraft.mining_fatigue": "Friendliness",
+
 "advancement.root.title": "Let's get into it",
 "advancement.root.description": "The brave new world (make sure to use the recipe book!)",
 
@@ -149,7 +151,7 @@
 "advancement.get_an_iron_lump.title": "Iron Lump",
 "advancement.get_an_iron_lump.description": "Obtain some iron lumps by breaking the iron ore",
 
-"advancement.get_a_poor_iron_nugget.title": "Not Chicken McNuggets?",
+"advancement.get_a_poor_iron_nugget.title": "iron Nuggets",
 "advancement.get_a_poor_iron_nugget.description": "Get a poor iron nugget by smelting iron lumps using blast furnace",
 
 "advancement.make_a_poor_iron_ingot.title": "Acquire Hardware",
@@ -255,5 +257,30 @@
 "advancement.coal_miner.description": "Mine a stack of coal",
 
 "advancement.master_coal_miner.title": "Coal Business",
-"advancement.master_coal_miner.description": "Mine enough coal to make a stack of coal blocks"
+"advancement.master_coal_miner.description": "Mine enough coal to make a stack of coal blocks",
+
+"advancement.food_paradise.title": "Food Paradise",
+"advancement.food_paradise.description": "Eat them all!",
+
+"advancement.green_fool.title": "Green fool",
+"advancement.green_fool.description": "Try the forbidden fruit",
+
+"advancement.suicide_supper.title": "Suicide Supper",
+"advancement.suicide_supper.description": "Survive eating a pufferfish! Somehow…",
+
+# Statistics
+"advancement.statistics.title": "Various statistics",
+"advancement.statistics.description": "If your numbers go up, you're having more fun",
+
+"advancement.deaths_1.title": "First death",
+"advancement.deaths_1.description": "Lived without fear and died without fear",
+
+"advancement.deaths_50.title": "Kingdom of heaven!",
+"advancement.deaths_50.description": "You can't get to paradise behaving like that, ya know? Congrats in 50 deaths anyway!",
+
+"advancement.deaths_250.title": "Again, again… and… again",
+"advancement.deaths_250.description": "You did that 250 times, unbelievable! Maybe consider stopping dying.",
+
+"advancement.deaths_1000.title": "Burden of Eternity",
+"advancement.deaths_1000.description": "Whatever, you're over the Death! One thousand tries!"
 }

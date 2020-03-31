@@ -2,8 +2,5 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "asurvival:gui/small_backpack"
-    },
-	"display": {
-		"gui": {"rotation": [ 0, 0, 0 ], "translation": [ 0, 0, 0 ], "scale": [ 1.2, 1.2, 1.2 ]}
-	}
+    }
 }

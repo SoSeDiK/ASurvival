@@ -4,6 +4,7 @@
         "layer0": "block/glass"
     },
 	"overrides": [
+{"predicate":{"custom_model_data": 1},"model":"asurvival:block/furniture/sleeping_bag"},
 		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:gui/backpack" },
 		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:gui/locked" },
 		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:gui/buyable" },
@@ -60,6 +61,13 @@
 		{ "predicate": { "custom_model_data": 10000053 }, "model": "asurvival:arrow_8" },
 		{ "predicate": { "custom_model_data": 10000054 }, "model": "asurvival:arrow_9" },
 		{ "predicate": { "custom_model_data": 10000055 }, "model": "asurvival:arrow_10" },
-		{ "predicate": { "custom_model_data": 10000056 }, "model": "asurvival:arrow_11" }
+		{ "predicate": { "custom_model_data": 10000056 }, "model": "asurvival:arrow_11" },
+		{ "predicate": { "custom_model_data": 10000057 }, "model": "asurvival:flame_1" },
+		{ "predicate": { "custom_model_data": 10000058 }, "model": "asurvival:flame_2" },
+		{ "predicate": { "custom_model_data": 10000059 }, "model": "asurvival:flame_3" },
+		{ "predicate": { "custom_model_data": 10000060 }, "model": "asurvival:flame_4" },
+		{ "predicate": { "custom_model_data": 10000061 }, "model": "asurvival:flame_5" },
+		{ "predicate": { "custom_model_data": 10000062 }, "model": "asurvival:flame_6" },
+		{ "predicate": { "custom_model_data": 10000063 }, "model": "asurvival:flame_7" }
 	]
 }

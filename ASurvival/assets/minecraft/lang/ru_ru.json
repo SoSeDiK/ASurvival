@@ -1,4 +1,6 @@
 {
+"effect.minecraft.mining_fatigue": "Дружелюбие",
+
 "advancement.root.title": "Это лишь начало",
 "advancement.root.description": "Совершенно новый мир (не забывайте заглядывать в книгу рецептов!)",
 
@@ -146,10 +148,10 @@
 "advancement.make_a_blast_furnace.title": "Растопленное сердце",
 "advancement.make_a_blast_furnace.description": "Укрепите печь, а затем поставьте её, чтобы заполучить доступ к плавке новых материалов",
 
-"advancement.get_an_iron_lump.title": "Кусок железной руды",
-"advancement.get_an_iron_lump.description": "Заполучите кусок железной руды, разрушив железную руду",
+"advancement.get_an_iron_lump.title": "Скопление железа",
+"advancement.get_an_iron_lump.description": "Заполучите скопление железа, разрушив железную руду",
 
-"advancement.get_a_poor_iron_nugget.title": "Хм, это не куриные крылышки?",
+"advancement.get_a_poor_iron_nugget.title": "Железный самородки",
 "advancement.get_a_poor_iron_nugget.description": "Заполучите бедный железный самородок, переплавив кусок железной руды в плавильне",
 
 "advancement.make_a_poor_iron_ingot.title": "Куй железо, пока горячо!",
@@ -255,5 +257,30 @@
 "advancement.coal_miner.description": "Добудьте стак угля",
 
 "advancement.master_coal_miner.title": "Угольный бизнес",
-"advancement.master_coal_miner.description": "Добудьте достаточно угля и создайте стак угольных блоков"
+"advancement.master_coal_miner.description": "Добудьте достаточно угля и создайте стак угольных блоков",
+
+"advancement.food_paradise.title": "Пищевой рай",
+"advancement.food_paradise.description": "Съешьте их всех!",
+
+"advancement.green_fool.title": "Зелёный олух",
+"advancement.green_fool.description": "Попробуйте запретный плод",
+
+"advancement.suicide_supper.title": "Убийственный ужин",
+"advancement.suicide_supper.description": "Переживите съедание иглобрюха! Как-нибудь…",
+
+# Статистика
+"advancement.statistics.title": "Различная статистика",
+"advancement.statistics.description": "Если числа возрастают, то Вам действительно весело",
+
+"advancement.deaths_1.title": "Первая смерть",
+"advancement.deaths_1.description": "Жил без страха и умер без страха",
+
+"advancement.deaths_50.title": "Царство Небесное!",
+"advancement.deaths_50.description": "В рай так просто Вас не пустят! 50 смертей в кармане.",
+
+"advancement.deaths_250.title": "Снова, снова… и… снова",
+"advancement.deaths_250.description": "Вы сделали это 250 раз, невероятно! Может уже прекратите?",
+
+"advancement.deaths_1000.title": "Бремя вечности",
+"advancement.deaths_1000.description": "Тысяча чертей! Смерть не имеет значения!"
 }

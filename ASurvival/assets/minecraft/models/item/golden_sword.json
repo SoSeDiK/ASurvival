@@ -1,19 +1,13 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/golden_sword"
-    },
-	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/grass_mesh" },
-		{ "predicate": { "custom_model_data": 10000001 }, "model": "asurvival:item/empty_canteen" },
-		{ "predicate": { "custom_model_data": 10000002 }, "model": "asurvival:item/canteen" },
-		{ "predicate": { "custom_model_data": 10000003 }, "model": "asurvival:item/flower_bouquet" },
-		{ "predicate": { "custom_model_data": 10000004 }, "model": "asurvival:item/flint_knife" },
-		{ "predicate": { "custom_model_data": 10000005 }, "model": "asurvival:item/water_gun" },
-		{ "predicate": { "custom_model_data": 10000006 }, "model": "asurvival:item/slime_gun" },
-		{ "predicate": { "custom_model_data": 10000007 }, "model": "asurvival:item/blazing_ghastmallow" },
-		{ "predicate": { "custom_model_data": 10000008 }, "model": "asurvival:item/copper_bucket" },
-		{ "predicate": { "custom_model_data": 10000009 }, "model": "asurvival:item/tin_bucket" },
-		{ "predicate": { "custom_model_data": 10000010 }, "model": "asurvival:item/gloves/leather_gloves" }
-	]
-}
+{"parent": "item/handheld","textures":{"layer0":"item/golden_sword"},"overrides":[
+{"predicate":{"custom_model_data":1},"model":"asurvival:item/grass_mesh"},
+{"predicate":{"custom_model_data":2},"model":"asurvival:item/empty_canteen"},
+{"predicate":{"custom_model_data":3},"model":"asurvival:item/canteen"},
+{"predicate":{"custom_model_data":4},"model":"asurvival:item/flower_bouquet"},
+{"predicate":{"custom_model_data":5},"model":"asurvival:item/flint_knife"},
+{"predicate":{"custom_model_data":6},"model":"asurvival:item/water_gun"},
+{"predicate":{"custom_model_data":7},"model":"asurvival:item/slime_gun"},
+{"predicate":{"custom_model_data":8},"model":"asurvival:item/blazing_ghastmallow"},
+{"predicate":{"custom_model_data":9},"model":"asurvival:item/copper_bucket"},
+{"predicate":{"custom_model_data":10},"model":"asurvival:item/tin_bucket"},
+{"predicate":{"custom_model_data":11},"model":"asurvival:item/gloves/leather_gloves"}
+]}

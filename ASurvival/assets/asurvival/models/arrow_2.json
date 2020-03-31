@@ -1,6 +1,1 @@
-{
-    "parent": "asurvival:arrow_1",
-    "textures": {
-        "layer0": "asurvival:font/gui/arrow_2"
-    }
-}
+{"parent":"asurvival:arrow_1","textures":{"layer0":"asurvival:font/gui/arrow_2"}}

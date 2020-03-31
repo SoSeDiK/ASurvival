@@ -1,19 +1,20 @@
 {
-	"parent": "block/block",
+	"parent": "block/cube_bottom_top",
 	"textures": {
 		"top": "asurvival:block/reed_block_top",
+		"bottom": "asurvival:block/reed_block_top",
 		"side": "asurvival:block/reed_block_side"
 	},
-	"elements": [{
-		"from": [ 0.0, 0.0, 0.0 ], 
-		"to": [ 16.0, 16.0, 16.0 ], 
-		"faces": {
-			"north": { "texture": "#side", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
-			"east": { "texture": "#side", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
-			"south": { "texture": "#side", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
-			"west": { "texture": "#side", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
-			"up": { "texture": "#top", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
-			"down": { "texture": "#top", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+	"display": {
+		"head": {
+			"rotation": [0, 0, 0],
+			"translation": [0, -14.66, 0],
+			"scale": [2.2858, 2.2858, 2.2858]
+		},
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-6.01, -2.01, 3.96],
+			"scale": [2, 2, 2]
 		}
-	}]
+	}
 }
