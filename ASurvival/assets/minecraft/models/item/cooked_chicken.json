@@ -1,6 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"item/cooked_chicken"},"overrides":[
-{"predicate":{"custom_model_data":1},"model":"asurvival:item/food/cooked_bat_meat"},
-{"predicate":{"custom_model_data":2},"model":"asurvival:item/food/cooked_bat_wing"},
-{"predicate":{"custom_model_data":3},"model":"asurvival:item/food/cooked_bear_meat"},
-{"predicate":{"custom_model_data":4},"model":"asurvival:item/food/cooked_human_meat"}
-]}

@@ -1,6 +1,0 @@
-{
-	"parent": "asurvival:mob/decaying_zombie/moving",
-	"textures": {
-		"0": "asurvival:mobs/animations/decaying_zombie_hurt"
-	}
-}

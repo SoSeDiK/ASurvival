@@ -1,6 +1,0 @@
-{
-	"parent": "asurvival:mob/mummy/right_hand",
-	"textures": {
-		"0": "asurvival:mobs/mummy_hurt"
-	}
-}

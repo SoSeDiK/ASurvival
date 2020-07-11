@@ -1,6 +1,0 @@
-{
-	"parent": "asurvival:mob/infested_zombie/moving",
-    "textures": {
-        "0": "asurvival:mobs/animations/infested_zombie_hurt"
-    }
-}

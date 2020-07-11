@@ -1,6 +1,0 @@
-{
-	"parent": "asurvival:mob/cave_zombie/moving",
-	"textures": {
-		"0": "asurvival:mobs/animations/cave_zombie_hurt"
-	}
-}
